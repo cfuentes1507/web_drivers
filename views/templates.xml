@@ -1,0 +1,59 @@
+<odoo>
+    <template id="elearning_template">
+        <t t-call="website.layout">
+            <div id="wrap" class="oe_structure oe_empty"/>
+            <div id="wrap">
+                <div class="container py-4">
+                    <div class="card p-4 mb-4">
+                        <div class="d-flex align-items-center mb-3">
+                          <form action="/slides/all" method="get" class="d-flex container align-items-center mb-3">
+                            <label for="search_courses" class="me-2">Buscar cursos</label>
+                            <input type="text" id="search_courses" name="search" class="form-control me-2"/>
+                            <input type="hidden" name="order" value="name asc"/>
+                            <button type="submit" class="btn btn-primary">Ir</button>
+                          </form>  
+                        </div>
+                        <h5 class="mb-3">Cursos por categoría</h5>
+                        <div>
+                            <t t-foreach="categories" t-as="category">
+                                <a t-attf-href="/slides/all/tag/{{ slug(category) }}" class="btn btn-secondary me-2 mb-2">
+                                    <t t-esc="category.name"/>
+                                </a>
+                            </t>
+                        </div>
+                    </div>
+
+                    <h3 class="mb-3">Cursos disponibles</h3>
+                    <div class="row">
+                        <t t-foreach="courses" t-as="course">
+                            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                                <div class="card h-100">
+                                    <img t-attf-src="/web/image?model=slide.channel&amp;id={{course.id}}&amp;field=image_1920" class="card-img-top" alt="Imagen del curso"/>
+                                    <div class="card-body">
+                                        <h5 class="card-title">
+                                            <a t-attf-href="/slides/{{ slug(course) }}">
+                                                <t t-esc="course.name"/>
+                                            </a>
+                                        </h5>
+                                        <div class="d-flex flex-wrap mb-2">
+
+                                            <t t-foreach="course.tag_ids" t-as="tag">
+                                                <a t-attf-href="/slides/all/tag/{{ slug(tag) }}" class="badge bg-secondary m-1">
+                                                    <t t-esc="tag.name"/>
+                                                </a>
+                                            </t>
+                                        </div>
+                                        <p class="card-text text-muted">
+                                            <t t-esc="course.description"/>
+                                        </p>
+                                        <a t-attf-href="/slides/{{ slug(course) }}" class="btn btn-primary mt-2">Más información</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </t>
+                    </div>
+                </div>
+            </div>
+        </t>
+    </template>
+</odoo>
