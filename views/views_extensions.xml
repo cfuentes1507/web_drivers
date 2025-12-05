@@ -1,0 +1,529 @@
+<odoo>
+    <!-- Extension al formulario de usuarios -->
+    <record
+            id="view_users_form_extension"
+            model="ir.ui.view">
+        <field name="name">res.users.form.extension</field>
+        <field name="model">res.users</field>
+        <field
+                name="inherit_id"
+                ref="base.view_users_form" />
+        <field
+                name="arch"
+                type="xml">
+
+            <xpath
+                    expr="//notebook"
+                    position="inside">
+                <page
+                        string="Datos de Personales"
+                        name="inf_priv">
+                    <group>
+                        <field
+                                name="vat"
+                                string="Cedula de Identidad" />
+                        <field
+                                name="custom_country_id"
+                                string="Pais" />
+                        <field
+                                name="custom_state_id"
+                                string="Estado" />
+                        <field
+                                name="custom_dob"
+                                string="Fecha de Nacimiento" />
+                        <field
+                                name="age"
+                                string="Edad" />
+                        <field
+                                name="custom_sex"
+                                string="Sexo" />
+                        <field
+                                name="phone"
+                                string="Telefono" />
+                        <field
+                                name="edu_sel"
+                                string="Educación" />
+                        <field
+                                name="ocupation_sel"
+                                string="Ocupación" />
+                        <field
+                                name="entity_sel"
+                                string="Ente de adscripción" />
+                        <field
+                                name="work_state"
+                                string="Estatus Laboral" />
+                    </group>
+                </page>
+            </xpath>
+
+        </field>
+    </record>
+    <record
+            id="view_partner_form_extension"
+            model="ir.ui.view">
+        <field name="name">res.partner.form.extension</field>
+        <field name="model">res.partner</field>
+        <field
+                name="inherit_id"
+                ref="base.view_partner_form" />
+        <field
+                name="arch"
+                type="xml">
+
+            <xpath
+                    expr="//sheet/notebook"
+                    position="inside">
+                <page
+                        string="Datos de Personales"
+                        name="inf_priv">
+                    <group>
+                        <field
+                                name="vat"
+                                string="Cedula de Identidad"
+                                attrs="{'readonly':True}" />
+                        <field
+                                name="user_country_id"
+                                string="Pais" />
+                        <field
+                                name="user_state_id"
+                                string="Estado" />
+                        <field
+                                name="user_dob"
+                                string="Fecha de Nacimiento" />
+                        <field
+                                name="user_age"
+                                string="Edad" />
+                        <field
+                                name="user_sex"
+                                string="Sexo" />
+                        <field
+                                name="phone"
+                                string="Telefono"
+                                attrs="{'readonly':True}" />
+                        <field
+                                name="user_edu_sel"
+                                string="Educación" />
+                        <field
+                                name="user_ocupation_sel"
+                                string="Ocupación" />
+                        <field
+                                name="user_entity_sel"
+                                string="Ente de adscripción" />
+                        <field
+                                name="user_work_state"
+                                string="Estatus Laboral" />
+                    </group>
+                </page>
+            </xpath>
+
+        </field>
+    </record>
+
+    <!-- Extension a la vista tree slide.channel.partner -->
+    <record
+            id="slide_channel_partner_extension"
+            model="ir.ui.view">
+        <field name="name">slide.channel.partner.tree.extension</field>
+        <field name="model">slide.channel.partner</field>
+        <field
+                name="inherit_id"
+                ref="website_slides.slide_channel_partner_view_tree" />
+        <field
+                name="arch"
+                type="xml">
+
+            <xpath
+                    expr="//field[@name='partner_email']"
+                    position="after">
+                <field
+                        name="partner_id"
+                        string="Nombres y Apellidos"
+                        attrs="{'readonly':True}" />
+                <field
+                        name="partner_id_vat"
+                        string="Cédula" />
+            </xpath>
+
+        </field>
+    </record>
+
+    <!-- Remplazo a la QWeb Template Signup Fields-->
+    <template
+            id="auth_signup_fields_override"
+            inherit_id="auth_signup.fields"
+            name="Campos de Formulario de Registro/Contraseña Reemplazados"
+            customize_show="True">
+        <xpath
+                expr="."
+                position="replace">
+            <t
+                    name="Auth Signup/ResetPassword form fields"
+                    t-name="auth_signup.fields">
+                <div class="form-group field-login">
+                    <label for="login">Your Email</label>
+                    <input
+                            type="text"
+                            name="login"
+                            t-att-value="login"
+                            id="login"
+                            class="form-control form-control-sm"
+                            autofocus="autofocus"
+                            autocapitalize="off"
+                            required="required"
+                            t-att-readonly="'readonly' if only_passwords else None" />
+                </div>
+
+                <div class="form-group field-name">
+                    <label for="name">Nombres y Apellidos</label>
+                    <input
+                            type="text"
+                            name="name"
+                            t-att-value="name"
+                            id="name"
+                            class="form-control form-control-sm"
+                            placeholder="e.g. John Doe"
+                            required="required"
+                            t-att-readonly="'readonly' if only_passwords else None"
+                            t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+                </div>
+
+                <!-- Cedula -->
+                <div class="form-group field-vat">
+                    <label for="vat">Cédula</label>
+                    <input
+                            type="text"
+                            name="vat"
+                            id="vat"
+                            class="form-control form-control-sm"
+                            t-att-value="vat or (partner.vat if partner else '')" />
+                </div>
+
+                <div class="form-group field-password pt-2">
+                    <label for="password">Password</label>
+                    <input
+                            type="password"
+                            name="password"
+                            id="password"
+                            class="form-control form-control-sm"
+                            required="required"
+                            t-att-autofocus="'autofocus' if only_passwords else None" />
+                </div>
+
+                <div class="form-group field-confirm_password">
+                    <label for="confirm_password">Confirm Password</label>
+                    <input
+                            type="password"
+                            name="confirm_password"
+                            id="confirm_password"
+                            class="form-control form-control-sm"
+                            required="required" />
+                </div>
+                <div class="form-group field-edu_sel">
+                    <label for="edu_sel">Nivel Educativo</label>
+                    <select
+                            name="edu_sel"
+                            id="edu_sel"
+                            class="form-control form-control-sm"
+                            required="required">
+                        <option value="">Seleccione...</option>
+                        <t
+                                t-foreach="edu_sel or []"
+                                t-as="opt">
+                            <option
+                                    t-att-value="opt[0]"
+                                    t-att-selected="opt[0] == (edu_sel_value or (partner.edu_sel if partner else ''))">
+                                <t t-esc="opt[1]" />
+                            </option>
+                        </t>
+                    </select>
+                </div>
+
+                <div class="form-group field-custom_country_id">
+                    <label for="custom_country_id">Pais</label>
+                    <select
+                            name="custom_country_id"
+                            id="custom_country_id"
+                            class="form-control form-control-sm"
+                            required="required">
+                        <option value="">Seleccione...</option>
+                        <t
+                                t-foreach="custom_country_id or []"
+                                t-as="opt">
+                            <t
+                                    t-set="default_country_id"
+                                    t-value="238" />
+
+                            <option
+                                    t-att-value="opt[0]"
+                                    t-att-selected="opt[0] == (custom_country_id_value or (partner.custom_country_id if partner and partner.custom_country_id else default_country_id))">
+                                <t t-esc="opt[1]" />
+                            </option>
+                        </t>
+                    </select>
+                </div>
+                <!-- Fecha de nacimiento -->
+                <div class="form-group field-custom_dob">
+                    <label for="custom_dob">Fecha de nacimiento</label>
+                    <input
+                            type="date"
+                            name="custom_dob"
+                            id="custom_dob"
+                            class="form-control form-control-sm"
+                            t-att-value="custom_dob or (partner.custom_dob if partner else '')" />
+                </div>
+
+                <!-- Sexo -->
+                <div class="form-group field-custom_sex">
+                    <label for="custom_sex">Sexo</label>
+                    <select
+                            name="custom_sex"
+                            id="custom_sex"
+                            class="form-control form-control-sm">
+                        <option value="">Seleccione...</option>
+                        <t
+                                t-foreach="custom_sex or []"
+                                t-as="opt">
+                            <option
+                                    t-att-value="opt[0]"
+                                    t-att-selected="opt[0] == (custom_sex_value or (partner.custom_sex if partner else ''))">
+                                <t t-esc="opt[1]" />
+                            </option>
+                        </t>
+                    </select>
+                </div>
+
+                <!-- Teléfono -->
+                <div class="form-group field-phone">
+                    <label for="phone">Teléfono</label>
+                    <input
+                            type="tel"
+                            name="phone"
+                            id="phone"
+                            class="form-control form-control-sm"
+                            t-att-value="phone or (partner.phone if partner else '')" />
+                </div>
+
+                <!-- Nivel Educativo -->
+                <div class="form-group field-edu_sel">
+                    <label for="edu_sel">Nivel Educativo</label>
+                    <select
+                            name="edu_sel"
+                            id="edu_sel"
+                            class="form-control form-control-sm">
+                        <option value="">Seleccione...</option>
+                        <t
+                                t-foreach="edu_sel or []"
+                                t-as="opt">
+                            <option
+                                    t-att-value="opt[0]"
+                                    t-att-selected="opt[0] == (edu_sel_value or (partner.edu_sel if partner else ''))">
+                                <t t-esc="opt[1]" />
+                            </option>
+                        </t>
+                    </select>
+                </div>
+
+                <!-- Estatus laboral -->
+                <div class="form-group field-work_state">
+                    <label for="work_state">Estatus laboral</label>
+                    <select
+                            name="work_state"
+                            id="work_state"
+                            class="form-control form-control-sm">
+                        <option value="">Seleccione...</option>
+                        <t
+                                t-foreach="work_state or []"
+                                t-as="opt">
+                            <option
+                                    t-att-value="opt[0]"
+                                    t-att-selected="opt[0] == (work_state_value or (partner.work_state if partner else ''))">
+                                <t t-esc="opt[1]" />
+                            </option>
+                        </t>
+                    </select>
+                </div>
+
+                <!-- Ocupación -->
+                <div class="form-group field-ocupation_sel">
+                    <label for="ocupation_sel">Ocupación</label>
+                    <select
+                            name="ocupation_sel"
+                            id="ocupation_sel"
+                            class="form-control form-control-sm">
+                        <option value="">Seleccione...</option>
+                        <t
+                                t-foreach="ocupation_sel or []"
+                                t-as="opt">
+                            <option
+                                    t-att-value="opt[0]"
+                                    t-att-selected="opt[0] == (ocupation_sel_value or (partner.ocupation_sel if partner else ''))">
+                                <t t-esc="opt[1]" />
+                            </option>
+                        </t>
+                    </select>
+                </div>
+
+                <!-- ¿Pertenece a alguna organización? -->
+                <div class="form-group field-entity_sel">
+                    <label for="entity_sel">¿Pertenece a alguna organización?</label>
+                    <select
+                            name="entity_sel"
+                            id="entity_sel"
+                            class="form-control form-control-sm">
+                        <option value="">Seleccione...</option>
+                        <t
+                                t-foreach="entity_sel or []"
+                                t-as="opt">
+                            <option
+                                    t-att-value="opt[0]"
+                                    t-att-selected="opt[0] == (entity_sel_value or (partner.entity_sel if partner else ''))">
+                                <t t-esc="opt[1]" />
+                            </option>
+                        </t>
+                    </select>
+                </div>
+
+            </t>
+        </xpath>
+    </template>
+    <!-- Remplazo a la vista portal_my_details-->
+    <record
+            id="web_drivers.portal_my_details_form_extension"
+            model="ir.ui.view">
+        <field name="name">web_drivers.portal_my_details.form.extension</field>
+        <field name="model" />
+        <field
+                name="inherit_id"
+                ref="portal.portal_my_details" />
+        <field
+                name="arch"
+                type="xml">
+            <xpath
+                    expr="//input[@name='phone']/../following-sibling::*[1]"
+                    position="before">
+                            <div t-attf-class="form-group #{error.get('user_dob') and 'o_has_error' or ''} col-xl-6">
+                                <label
+                                        class="col-form-label"
+                                        for="user_dob">Fecha de Nacimiento</label>
+                                <input
+                                        type="date"
+                                        name="user_dob"
+                                        t-attf-class="form-control #{error.get('user_dob') and 'is-invalid' or ''}"
+                                        t-att-value="user_dob or partner.user_dob" />
+                            </div>
+                            <div t-attf-class="form-group #{error.get('user_age') and 'o_has_error' or ''} col-xl-6">
+                                <label
+                                        class="col-form-label"
+                                        for="user_age">Edad</label>
+                                <input
+                                        type="text"
+                                        name="user_age"
+                                        t-attf-class="form-control #{error.get('user_age') and 'is-invalid' or ''}"
+                                        t-att-value="user_age or partner.user_age"
+                                        disabled="1" />
+                            </div>
+                            <div class="clearfix" />
+
+                            <div t-attf-class="form-group #{error.get('user_sex') and 'o_has_error' or ''} col-xl-6">
+                                <label
+                                        class="col-form-label"
+                                        for="user_sex">Sexo</label>
+                                <select
+                                        name="user_sex"
+                                        t-attf-class="form-control #{error.get('user_sex') and 'is-invalid' or ''}">
+                                    <option value="">Seleccione...</option>
+                                    <t
+                                            t-foreach="partner._fields['user_sex'].selection(partner) or []"
+                                            t-as="sex_option">
+                                        <option
+                                                t-att-value="sex_option[0]"
+                                                t-att-selected="sex_option[0] == (user_sex or partner.user_sex)">
+                                            <t t-esc="sex_option[1]" />
+                                        </option>
+                                    </t>
+                                </select>
+                            </div>
+                            <div t-attf-class="form-group #{error.get('user_edu_sel') and 'o_has_error' or ''} col-xl-6">
+                                <label
+                                        class="col-form-label"
+                                        for="user_edu_sel">Educación</label>
+                                <select
+                                        name="user_edu_sel"
+                                        t-attf-class="form-control #{error.get('user_edu_sel') and 'is-invalid' or ''}">
+                                    <option value="">Seleccione...</option>
+                                    <t
+                                            t-foreach="partner._fields['user_edu_sel'].selection(partner) or []"
+                                            t-as="edu_option">
+                                        <option
+                                                t-att-value="edu_option[0]"
+                                                t-att-selected="edu_option[0] == (user_edu_sel or partner.user_edu_sel)">
+                                            <t t-esc="edu_option[1]" />
+                                        </option>
+                                    </t>
+                                </select>
+                            </div>
+                            <div class="clearfix" />
+
+                            <div t-attf-class="form-group #{error.get('user_ocupation_sel') and 'o_has_error' or ''} col-xl-6">
+                                <label
+                                        class="col-form-label"
+                                        for="user_ocupation_sel">Ocupación</label>
+                                <select
+                                        name="user_ocupation_sel"
+                                        t-attf-class="form-control #{error.get('user_ocupation_sel') and 'is-invalid' or ''}">
+                                    <option value="">Seleccione...</option>
+                                    <t
+                                            t-foreach="partner._fields['user_ocupation_sel'].selection(partner) or []"
+                                            t-as="ocupation_option">
+                                        <option
+                                                t-att-value="ocupation_option[0]"
+                                                t-att-selected="ocupation_option[0] == (user_ocupation_sel or partner.user_ocupation_sel)">
+                                            <t t-esc="ocupation_option[1]" />
+                                        </option>
+                                    </t>
+                                </select>
+                            </div>
+                            <div t-attf-class="form-group #{error.get('user_entity_sel') and 'o_has_error' or ''} col-xl-6">
+                                <label
+                                        class="col-form-label"
+                                        for="user_entity_sel">Ente de adscripción</label>
+                                <select
+                                        name="user_entity_sel"
+                                        t-attf-class="form-control #{error.get('user_entity_sel') and 'is-invalid' or ''}">
+                                    <option value="">Seleccione...</option>
+                                    <t
+                                            t-foreach="partner._fields['user_entity_sel'].selection(partner) or []"
+                                            t-as="entity_option">
+                                        <option
+                                                t-att-value="entity_option[0]"
+                                                t-att-selected="entity_option[0] == (user_entity_sel or partner.user_entity_sel)">
+                                            <t t-esc="entity_option[1]" />
+                                        </option>
+                                    </t>
+                                </select>
+                            </div>
+                            <div class="clearfix" />
+
+                            <div t-attf-class="form-group #{error.get('user_work_state') and 'o_has_error' or ''} col-xl-6">
+                                <label
+                                        class="col-form-label"
+                                        for="user_work_state">Estatus Laboral</label>
+                                <select
+                                        name="user_work_state"
+                                        t-attf-class="form-control #{error.get('user_work_state') and 'is-invalid' or ''}">
+                                    <option value="">Seleccione...</option>
+                                    <t
+                                            t-foreach="partner._fields['user_work_state'].selection(partner) or []"
+                                            t-as="work_state_option">
+                                        <option
+                                                t-att-value="work_state_option[0]"
+                                                t-att-selected="work_state_option[0] == (user_work_state or partner.user_work_state)">
+                                            <t t-esc="work_state_option[1]" />
+                                        </option>
+                                    </t>
+                                </select>
+                            </div>
+            </xpath>
+        </field>
+    </record>
+</odoo>

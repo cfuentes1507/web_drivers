@@ -1,0 +1,336 @@
+id,name,cne_municipality_code,state_id:id
+cenipa_data.cne_municipality_2101,MP. BARALT,01,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2102,MP. SANTA RITA,02,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2103,MP. COLON,03,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2104,MP. MARA,04,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2105,MP. MARACAIBO,05,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2106,MP. MIRANDA,06,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2107,MP. INDIGENA BLVNO G,07,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2108,MP. MACHIQUES DE P,08,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2109,MP. SUCRE,09,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2110,MP. LA CAÑADA DE U.,10,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2111,MP. LAGUNILLAS,11,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2112,MP. CATATUMBO,12,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2113,MP.ROSARIO DE PERIJA,13,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2114,MP. CABIMAS,14,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2115,MP.VALMORE RODRIGUEZ,15,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2116,MP. JESUS E LOSSADA,16,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2117,MP. ALMIRANTE P,17,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2118,MP. SAN FRANCISCO,18,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2119,MP. JESUS M SEMPRUN,19,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2120,MP. FRANCISCO J PULG,20,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2121,MP. SIMON BOLIVAR,21,cenipa_data.cne_state_21
+cenipa_data.cne_municipality_2201,MP. ATURES,01,cenipa_data.cne_state_22
+cenipa_data.cne_municipality_2202,MP. ATABAPO,02,cenipa_data.cne_state_22
+cenipa_data.cne_municipality_2203,MP. MAROA,03,cenipa_data.cne_state_22
+cenipa_data.cne_municipality_2204,MP. RIO NEGRO,04,cenipa_data.cne_state_22
+cenipa_data.cne_municipality_2205,MP. AUTANA,05,cenipa_data.cne_state_22
+cenipa_data.cne_municipality_2206,MP. MANAPIARE,06,cenipa_data.cne_state_22
+cenipa_data.cne_municipality_2207,MP. ALTO ORINOCO,07,cenipa_data.cne_state_22
+cenipa_data.cne_municipality_2301,MP. TUCUPITA,01,cenipa_data.cne_state_23
+cenipa_data.cne_municipality_2302,MP. PEDERNALES,02,cenipa_data.cne_state_23
+cenipa_data.cne_municipality_2303,MP. ANTONIO DIAZ,03,cenipa_data.cne_state_23
+cenipa_data.cne_municipality_2304,MP. CASACOIMA,04,cenipa_data.cne_state_23
+cenipa_data.cne_municipality_2401,MP. VARGAS,01,cenipa_data.cne_state_24
+cenipa_data.cne_municipality_1613,MP.S RAFAEL DE ONOTO,13,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1614,MP. SANTA ROSALIA,14,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1701,MP. ARISMENDI,01,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1702,MP. BENITEZ,02,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1703,MP. BERMUDEZ,03,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1704,MP. CAJIGAL,04,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1705,MP. MARIÑO,05,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1706,MP. MEJIA,06,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1707,MP. MONTES,07,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1708,MP. RIBERO,08,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1709,MP. SUCRE,09,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1710,MP. VALDEZ,10,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1711,MP. ANDRES E BLANCO,11,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1712,MP. LIBERTADOR,12,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1713,MP. ANDRES MATA,13,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1714,MP. BOLIVAR,14,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1715,MP. CRUZ S ACOSTA,15,cenipa_data.cne_state_17
+cenipa_data.cne_municipality_1801,MP. AYACUCHO,01,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1802,MP. BOLIVAR,02,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1803,MP. CAPACHO NUEVO,03,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1804,MP. CARDENAS,04,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1805,MP. JAUREGUI,05,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1806,MP. JUNIN,06,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1807,MP. LOBATERA,07,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1808,MP. SAN CRISTOBAL,08,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1809,MP. URIBANTE,09,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1810,MP. CORDOBA,10,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1811,MP. GARCIA DE HEVIA,11,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1812,MP. GUASIMOS,12,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1813,MP. MICHELENA,13,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1814,MP. LIBERTADOR,14,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1815,MP. PANAMERICANO,15,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1816,MP.PEDRO MARIA UREÑA,16,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1817,MP. SUCRE,17,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1818,MP. ANDRES BELLO,18,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1819,MP. FERNANDEZ FEO,19,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1820,MP. CAPACHO VIEJO,20,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1821,MP. SAMUEL MALDONADO,21,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1822,MP. SEBORUCO,22,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1823,MP. ANTONIO ROMULO C,23,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1824,MP. FCO DE MIRANDA,24,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1825,MP. JOSE M. VARGAS,25,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1826,MP. RAFAEL URDANETA,26,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1827,MP. SIMON RODRIGUEZ,27,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1828,MP. TORBES,28,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1829,MP. SAN JUDAS TADEO,29,cenipa_data.cne_state_18
+cenipa_data.cne_municipality_1901,MP. RAFAEL RANGEL,01,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1902,MP. BOCONO,02,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1903,MP. CARACHE,03,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1904,MP. ESCUQUE,04,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1905,MP. TRUJILLO,05,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1906,MP. URDANETA,06,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1907,MP. VALERA,07,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1908,MP. CANDELARIA,08,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1909,MP. MIRANDA,09,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1910,MP. MONTE CARMELO,10,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1911,MP. MOTATAN,11,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1912,MP. PAMPAN,12,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1913,MP.S RAFAEL CARVAJAL,13,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1914,MP. SUCRE,14,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1915,MP. ANDRES BELLO,15,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1916,MP. BOLIVAR,16,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1917,MP. J.F.MARQUEZ C.,17,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1918,MP. J.V. CAMPO ELIAS,18,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1919,MP. LA CEIBA,19,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_1920,MP. PAMPANITO,20,cenipa_data.cne_state_19
+cenipa_data.cne_municipality_2001,MP. BOLIVAR,01,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2002,MP. BRUZUAL,02,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2003,MP. NIRGUA,03,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2004,MP. SAN FELIPE,04,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2005,MP. SUCRE,05,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2006,MP. URACHICHE,06,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2007,MP. PEÑA,07,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2008,MP.JOSE ANTONIO PAEZ,08,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2009,MP. LA TRINIDAD,09,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2010,MP. COCOROTE,10,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2011,MP. INDEPENDENCIA,11,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2012,MP. ARISTIDES BASTID,12,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2013,MP. MANUEL MONGE,13,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_2014,MP. CORONEL JOSE JOA,14,cenipa_data.cne_state_20
+cenipa_data.cne_municipality_0101,MP. BLVNO LIBERTADOR,01,cenipa_data.cne_state_01
+cenipa_data.cne_municipality_0201,MP. ANACO,01,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0202,MP. ARAGUA,02,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0203,MP. BOLIVAR,03,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0204,MP. BRUZUAL,04,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0205,MP. CAJIGAL,05,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0206,MP. FREITES,06,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0207,MP. INDEPENDENCIA,07,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0208,MP. LIBERTAD,08,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0209,MP. MIRANDA,09,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0210,MP. MONAGAS,10,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0211,MP. PEÑALVER,11,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0212,MP. SIMON RODRIGUEZ,12,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0213,MP. SOTILLO,13,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0214,MP. GUANIPA,14,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0215,MP. GUANTA,15,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0216,MP. PIRITU,16,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0217,MP. L/DIEGO BAUTISTA,17,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0218,MP. CARVAJAL,18,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0219,MP. SANTA ANA,19,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0220,MP. MC GREGOR,20,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0221,MP.S JUAN CAPISTRANO,21,cenipa_data.cne_state_02
+cenipa_data.cne_municipality_0301,MP. ACHAGUAS,01,cenipa_data.cne_state_03
+cenipa_data.cne_municipality_0302,MP. MUÑOZ,02,cenipa_data.cne_state_03
+cenipa_data.cne_municipality_0303,MP. PAEZ,03,cenipa_data.cne_state_03
+cenipa_data.cne_municipality_0304,MP. PEDRO CAMEJO,04,cenipa_data.cne_state_03
+cenipa_data.cne_municipality_0305,MP. ROMULO GALLEGOS,05,cenipa_data.cne_state_03
+cenipa_data.cne_municipality_0306,MP. SAN FERNANDO,06,cenipa_data.cne_state_03
+cenipa_data.cne_municipality_0307,MP. BIRUACA,07,cenipa_data.cne_state_03
+cenipa_data.cne_municipality_0401,MP. GIRARDOT,01,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0402,MP. SANTIAGO MARIÑO,02,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0403,MP. JOSE FELIX RIBAS,03,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0404,MP. SAN CASIMIRO,04,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0405,MP. SAN SEBASTIAN,05,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0406,MP. SUCRE,06,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0407,MP. URDANETA,07,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0408,MP. ZAMORA,08,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0409,MP. LIBERTADOR,09,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0410,MP. JOSE ANGEL LAMAS,10,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0411,MP. BOLIVAR,11,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0412,MP. SANTOS MICHELENA,12,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0413,MP. MARIO B IRAGORRY,13,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0414,MP. TOVAR,14,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0415,MP. CAMATAGUA,15,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0416,MP. JOSE R REVENGA,16,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0417,MP.FRANCISCO LINARES,17,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0418,MP.OCUMARE D L COSTA,18,cenipa_data.cne_state_04
+cenipa_data.cne_municipality_0501,MP. ARISMENDI,01,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0502,MP. BARINAS,02,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0503,MP. BOLIVAR,03,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0504,MP. EZEQUIEL ZAMORA,04,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0505,MP. OBISPOS,05,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0506,MP. PEDRAZA,06,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0507,MP. ROJAS,07,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0508,MP. SOSA,08,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0509,MP. ALBERTO ARVELO T,09,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0510,MP. A JOSE DE SUCRE,10,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0511,MP. CRUZ PAREDES,11,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0512,MP. ANDRES E. BLANCO,12,cenipa_data.cne_state_05
+cenipa_data.cne_municipality_0601,MP. CARONI,01,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0602,MP. CEDEÑO,02,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0603,MP. ANGOSTURA DEL OR,03,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0604,MP. PIAR,04,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0605,MP. ROSCIO,05,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0606,MP. SUCRE,06,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0607,MP. SIFONTES,07,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0608,MP. BLVNO DE ANGOSTU,08,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0609,MP. GRAN SABANA,09,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0610,MP. EL CALLAO,10,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0611,MP.PADRE PEDRO CHIEN,11,cenipa_data.cne_state_06
+cenipa_data.cne_municipality_0701,MP. BEJUMA,01,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0702,MP. CARLOS ARVELO,02,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0703,MP. DIEGO IBARRA,03,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0704,MP. GUACARA,04,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0705,MP. MONTALBAN,05,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0706,MP. JUAN JOSE MORA,06,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0707,MP. PUERTO CABELLO,07,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0708,MP. SAN JOAQUIN,08,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0709,MP. VALENCIA,09,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0710,MP. MIRANDA,10,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0711,MP. LOS GUAYOS,11,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0712,MP. NAGUANAGUA,12,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0713,MP. SAN DIEGO,13,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0714,MP. LIBERTADOR,14,cenipa_data.cne_state_07
+cenipa_data.cne_municipality_0801,MP. ANZOATEGUI,01,cenipa_data.cne_state_08
+cenipa_data.cne_municipality_0802,MP. AUTONOMO TINAQUI,02,cenipa_data.cne_state_08
+cenipa_data.cne_municipality_0803,MP. GIRARDOT,03,cenipa_data.cne_state_08
+cenipa_data.cne_municipality_0804,MP. PAO S J BAUTISTA,04,cenipa_data.cne_state_08
+cenipa_data.cne_municipality_0805,MP. RICAURTE,05,cenipa_data.cne_state_08
+cenipa_data.cne_municipality_0806,MP. EZEQUIEL ZAMORA,06,cenipa_data.cne_state_08
+cenipa_data.cne_municipality_0807,MP. TINACO,07,cenipa_data.cne_state_08
+cenipa_data.cne_municipality_0808,MP. LIMA BLANCO,08,cenipa_data.cne_state_08
+cenipa_data.cne_municipality_0809,MP. ROMULO GALLEGOS,09,cenipa_data.cne_state_08
+cenipa_data.cne_municipality_0901,MP. ACOSTA,01,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0902,MP. BOLIVAR,02,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0903,MP. BUCHIVACOA,03,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0904,MP. CARIRUBANA,04,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0905,MP. COLINA,05,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0906,MP. DEMOCRACIA,06,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0907,MP. FALCON,07,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0908,MP. FEDERACION,08,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0909,MP. MAUROA,09,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0910,MP. MIRANDA,10,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0911,MP. PETIT,11,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0912,MP. SILVA,12,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0913,MP. ZAMORA,13,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0914,MP. DABAJURO,14,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0915,MP. MONS. ITURRIZA,15,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0916,MP. LOS TAQUES,16,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0917,MP. PIRITU,17,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0918,MP. UNION,18,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0919,MP. SAN FRANCISCO,19,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0920,MP. JACURA,20,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0921,MP. CACIQUE MANAURE,21,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0922,MP. PALMASOLA,22,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0923,MP. SUCRE,23,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0924,MP. URUMACO,24,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_0925,MP. TOCOPERO,25,cenipa_data.cne_state_09
+cenipa_data.cne_municipality_1001,MP. INFANTE,01,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1002,MP. MELLADO,02,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1003,MP. MIRANDA,03,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1004,MP. MONAGAS,04,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1005,MP. RIBAS,05,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1006,MP. JUAN GERMAN ROSC,06,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1007,MP. ZARAZA,07,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1008,MP. CAMAGUAN,08,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1009,MP.S JOSE DE GUARIBE,09,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1010,MP. JUAN JOSE RONDON,10,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1011,MP. EL SOCORRO,11,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1012,MP. ORTIZ,12,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1013,MP. S MARIA DE IPIRE,13,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1014,MP. CHAGUARAMAS,14,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1015,MP.SAN GERONIMO DE G,15,cenipa_data.cne_state_10
+cenipa_data.cne_municipality_1101,MP. CRESPO,01,cenipa_data.cne_state_11
+cenipa_data.cne_municipality_1102,MP. IRIBARREN,02,cenipa_data.cne_state_11
+cenipa_data.cne_municipality_1103,MP. JIMENEZ,03,cenipa_data.cne_state_11
+cenipa_data.cne_municipality_1104,MP. MORAN,04,cenipa_data.cne_state_11
+cenipa_data.cne_municipality_1105,MP. PALAVECINO,05,cenipa_data.cne_state_11
+cenipa_data.cne_municipality_1106,MP. TORRES,06,cenipa_data.cne_state_11
+cenipa_data.cne_municipality_1107,MP. URDANETA,07,cenipa_data.cne_state_11
+cenipa_data.cne_municipality_1108,MP. ANDRES E BLANCO,08,cenipa_data.cne_state_11
+cenipa_data.cne_municipality_1109,MP. SIMON PLANAS,09,cenipa_data.cne_state_11
+cenipa_data.cne_municipality_1201,MP. ALBERTO ADRIANI,01,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1202,MP. ANDRES BELLO,02,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1203,MP. ARZOBISPO CHACON,03,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1204,MP. CAMPO ELIAS,04,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1205,MP. GUARAQUE,05,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1206,MP.JULIO CESAR SALAS,06,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1207,MP. JUSTO BRICEÑO,07,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1208,MP. LIBERTADOR,08,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1209,MP. SANTOS MARQUINA,09,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1210,MP. MIRANDA,10,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1211,MP. ANTONIO PINTO S.,11,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1212,MP.OB. RAMOS DE LORA,12,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1213,MP. CARACCIOLO PARRA,13,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1214,MP.CARDENAL QUINTERO,14,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1215,MP. PUEBLO LLANO,15,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1216,MP. RANGEL,16,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1217,MP. RIVAS DAVILA,17,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1218,MP. SUCRE,18,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1219,MP. TOVAR,19,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1220,MP. TULIO F CORDERO,20,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1221,MP. PADRE NOGUERA,21,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1222,MP. ARICAGUA,22,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1223,MP. ZEA,23,cenipa_data.cne_state_12
+cenipa_data.cne_municipality_1301,MP. ACEVEDO,01,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1302,MP. BRION,02,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1303,MP. GUAICAIPURO,03,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1304,MP. INDEPENDENCIA,04,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1305,MP. LANDER,05,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1306,MP. PAEZ,06,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1307,MP. PAZ CASTILLO,07,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1308,MP. PLAZA,08,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1309,MP. SUCRE,09,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1310,MP. URDANETA,10,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1311,MP. ZAMORA,11,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1312,MP. CRISTOBAL ROJAS,12,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1313,MP. LOS SALIAS,13,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1314,MP. ANDRES BELLO,14,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1315,MP. SIMON BOLIVAR,15,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1316,MP. BARUTA,16,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1317,MP. CARRIZAL,17,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1318,MP. CHACAO,18,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1319,MP. EL HATILLO,19,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1320,MP. BUROZ,20,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1321,MP. PEDRO GUAL,21,cenipa_data.cne_state_13
+cenipa_data.cne_municipality_1401,MP. ACOSTA,01,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1402,MP. BOLIVAR,02,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1403,MP. CARIPE,03,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1404,MP. CEDEÑO,04,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1405,MP. EZEQUIEL ZAMORA,05,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1406,MP. LIBERTADOR,06,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1407,MP. MATURIN,07,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1408,MP. PIAR,08,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1409,MP. PUNCERES,09,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1410,MP. SOTILLO,10,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1411,MP. AGUASAY,11,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1412,MP. SANTA BARBARA,12,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1413,MP. URACOA,13,cenipa_data.cne_state_14
+cenipa_data.cne_municipality_1501,MP. ARISMENDI,01,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1502,MP. DIAZ,02,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1503,MP. GOMEZ,03,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1504,MP. MANEIRO,04,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1505,MP. MARCANO,05,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1506,MP. MARIÑO,06,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1507,MP.PENIN. DE MACANAO,07,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1508,MP.VILLALBA(I.COCHE),08,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1509,MP. TUBORES,09,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1510,MP.ANTOLIN DEL CAMPO,10,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1511,MP. GARCIA,11,cenipa_data.cne_state_15
+cenipa_data.cne_municipality_1601,MP. ARAURE,01,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1602,MP. ESTELLER,02,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1603,MP. GUANARE,03,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1604,MP. GUANARITO,04,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1605,MP. OSPINO,05,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1606,MP. PAEZ,06,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1607,MP. SUCRE,07,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1608,MP. TUREN,08,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1609,MP. M.JOSE V DE UNDA,09,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1610,MP. AGUA BLANCA,10,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1611,MP. PAPELON,11,cenipa_data.cne_state_16
+cenipa_data.cne_municipality_1612,MP.GENARO BOCONOITO,12,cenipa_data.cne_state_16

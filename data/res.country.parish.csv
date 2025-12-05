@@ -1,0 +1,1142 @@
+id,name,cne_parish_code,municipality_id:id
+cenipa_data.cne_parish_210103,PQ. MANUEL GUANIPA MATOS,03,cenipa_data.cne_municipality_2101
+cenipa_data.cne_parish_210104,PQ. MARCELINO BRICEÑO,04,cenipa_data.cne_municipality_2101
+cenipa_data.cne_parish_210105,PQ. SAN TIMOTEO,05,cenipa_data.cne_municipality_2101
+cenipa_data.cne_parish_210106,PQ. PUEBLO NUEVO,06,cenipa_data.cne_municipality_2101
+cenipa_data.cne_parish_210201,PQ. PEDRO LUCAS URRIBARRI,01,cenipa_data.cne_municipality_2102
+cenipa_data.cne_parish_210202,PQ. SANTA RITA,02,cenipa_data.cne_municipality_2102
+cenipa_data.cne_parish_210203,PQ. JOSE CENOVIO URRIBARR,03,cenipa_data.cne_municipality_2102
+cenipa_data.cne_parish_210204,PQ. EL MENE,04,cenipa_data.cne_municipality_2102
+cenipa_data.cne_parish_210301,PQ. SANTA CRUZ DEL ZULIA,01,cenipa_data.cne_municipality_2103
+cenipa_data.cne_parish_210302,PQ. URIBARRI,02,cenipa_data.cne_municipality_2103
+cenipa_data.cne_parish_210303,PQ. MORALITO,03,cenipa_data.cne_municipality_2103
+cenipa_data.cne_parish_210304,PQ. SAN CARLOS DEL ZULIA,04,cenipa_data.cne_municipality_2103
+cenipa_data.cne_parish_210305,PQ. SANTA BARBARA,05,cenipa_data.cne_municipality_2103
+cenipa_data.cne_parish_210401,PQ. LUIS DE VICENTE,01,cenipa_data.cne_municipality_2104
+cenipa_data.cne_parish_210402,PQ. RICAURTE,02,cenipa_data.cne_municipality_2104
+cenipa_data.cne_parish_210403,PQ. MONS.MARCOS SERGIO G,03,cenipa_data.cne_municipality_2104
+cenipa_data.cne_parish_210404,PQ. SAN RAFAEL,04,cenipa_data.cne_municipality_2104
+cenipa_data.cne_parish_210405,PQ. LAS PARCELAS,05,cenipa_data.cne_municipality_2104
+cenipa_data.cne_parish_210406,PQ. TAMARE,06,cenipa_data.cne_municipality_2104
+cenipa_data.cne_parish_210407,PQ. LA SIERRITA,07,cenipa_data.cne_municipality_2104
+cenipa_data.cne_parish_210501,PQ. BOLIVAR,01,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210502,PQ. COQUIVACOA,02,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210503,PQ. CRISTO DE ARANZA,03,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210504,PQ. CHIQUINQUIRA,04,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210505,PQ. SANTA LUCIA,05,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210506,PQ. OLEGARIO VILLALOBOS,06,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210507,PQ. JUANA DE AVILA,07,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210508,PQ.CARACCIOLO PARRA PEREZ,08,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210509,PQ. IDELFONZO VASQUEZ,09,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210510,PQ. CACIQUE MARA,10,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210511,PQ. CECILIO ACOSTA,11,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210512,PQ. RAUL LEONI,12,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210513,PQ. FRANCISCO EUGENIO B,13,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210514,PQ. MANUEL DAGNINO,14,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210515,PQ. LUIS HURTADO HIGUERA,15,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210516,PQ. VENANCIO PULGAR,16,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210517,PQ. ANTONIO BORJAS ROMERO,17,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210518,PQ. SAN ISIDRO,18,cenipa_data.cne_municipality_2105
+cenipa_data.cne_parish_210601,PQ. FARIA,01,cenipa_data.cne_municipality_2106
+cenipa_data.cne_parish_210602,PQ. SAN ANTONIO,02,cenipa_data.cne_municipality_2106
+cenipa_data.cne_parish_210603,PQ. ANA MARIA CAMPOS,03,cenipa_data.cne_municipality_2106
+cenipa_data.cne_parish_210604,PQ. SAN JOSE,04,cenipa_data.cne_municipality_2106
+cenipa_data.cne_parish_210605,PQ. ALTAGRACIA,05,cenipa_data.cne_municipality_2106
+cenipa_data.cne_parish_210701,PQ. GUAJIRA,01,cenipa_data.cne_municipality_2107
+cenipa_data.cne_parish_210702,PQ. ELIAS SANCHEZ RUBIO,02,cenipa_data.cne_municipality_2107
+cenipa_data.cne_parish_210703,PQ. SINAMAICA,03,cenipa_data.cne_municipality_2107
+cenipa_data.cne_parish_210704,PQ. ALTA GUAJIRA,04,cenipa_data.cne_municipality_2107
+cenipa_data.cne_parish_210801,PQ. SAN JOSE DE PERIJA,01,cenipa_data.cne_municipality_2108
+cenipa_data.cne_parish_210802,PQ.BARTOLOME DE LAS CASAS,02,cenipa_data.cne_municipality_2108
+cenipa_data.cne_parish_210803,PQ. LIBERTAD,03,cenipa_data.cne_municipality_2108
+cenipa_data.cne_parish_210804,PQ. RIO NEGRO,04,cenipa_data.cne_municipality_2108
+cenipa_data.cne_parish_210901,PQ. GIBRALTAR,01,cenipa_data.cne_municipality_2109
+cenipa_data.cne_parish_210902,PQ. HERAS,02,cenipa_data.cne_municipality_2109
+cenipa_data.cne_parish_210903,PQ. M.ARTURO CELESTINO A,03,cenipa_data.cne_municipality_2109
+cenipa_data.cne_parish_210904,PQ. ROMULO GALLEGOS,04,cenipa_data.cne_municipality_2109
+cenipa_data.cne_parish_210905,PQ. BOBURES,05,cenipa_data.cne_municipality_2109
+cenipa_data.cne_parish_210906,PQ. EL BATEY,06,cenipa_data.cne_municipality_2109
+cenipa_data.cne_parish_211001,PQ. ANDRES BELLO,01,cenipa_data.cne_municipality_2110
+cenipa_data.cne_parish_211002,PQ. POTRERITOS,02,cenipa_data.cne_municipality_2110
+cenipa_data.cne_parish_211003,PQ. EL CARMELO,03,cenipa_data.cne_municipality_2110
+cenipa_data.cne_parish_211004,PQ. CHIQUINQUIRA,04,cenipa_data.cne_municipality_2110
+cenipa_data.cne_parish_211005,PQ. CONCEPCION,05,cenipa_data.cne_municipality_2110
+cenipa_data.cne_parish_211101,PQ. ELEAZAR LOPEZ C,01,cenipa_data.cne_municipality_2111
+cenipa_data.cne_parish_211102,PQ. PARAUTE,02,cenipa_data.cne_municipality_2111
+cenipa_data.cne_parish_211103,PQ. VENEZUELA,03,cenipa_data.cne_municipality_2111
+cenipa_data.cne_parish_211104,PQ. CAMPO LARA,04,cenipa_data.cne_municipality_2111
+cenipa_data.cne_parish_211105,PQ. LIBERTAD,05,cenipa_data.cne_municipality_2111
+cenipa_data.cne_parish_211201,PQ. UDON PEREZ,01,cenipa_data.cne_municipality_2112
+cenipa_data.cne_parish_211202,PQ. ENCONTRADOS,02,cenipa_data.cne_municipality_2112
+cenipa_data.cne_parish_211301,PQ. DONALDO GARCIA,01,cenipa_data.cne_municipality_2113
+cenipa_data.cne_parish_211302,PQ. SIXTO ZAMBRANO,02,cenipa_data.cne_municipality_2113
+cenipa_data.cne_parish_211303,PQ. EL ROSARIO,03,cenipa_data.cne_municipality_2113
+cenipa_data.cne_parish_211401,PQ. AMBROSIO,01,cenipa_data.cne_municipality_2114
+cenipa_data.cne_parish_211402,PQ. GERMAN RIOS LINARES,02,cenipa_data.cne_municipality_2114
+cenipa_data.cne_parish_211403,PQ. JORGE HERNANDEZ,03,cenipa_data.cne_municipality_2114
+cenipa_data.cne_parish_211404,PQ. LA ROSA,04,cenipa_data.cne_municipality_2114
+cenipa_data.cne_parish_211405,PQ. PUNTA GORDA,05,cenipa_data.cne_municipality_2114
+cenipa_data.cne_parish_211406,PQ. CARMEN HERRERA,06,cenipa_data.cne_municipality_2114
+cenipa_data.cne_parish_211407,PQ. SAN BENITO,07,cenipa_data.cne_municipality_2114
+cenipa_data.cne_parish_211408,PQ. ROMULO BETANCOURT,08,cenipa_data.cne_municipality_2114
+cenipa_data.cne_parish_211409,PQ. ARISTIDES CALVANI,09,cenipa_data.cne_municipality_2114
+cenipa_data.cne_parish_211501,PQ. RAUL CUENCA,01,cenipa_data.cne_municipality_2115
+cenipa_data.cne_parish_211502,PQ. LA VICTORIA,02,cenipa_data.cne_municipality_2115
+cenipa_data.cne_parish_211503,PQ. RAFAEL URDANETA,03,cenipa_data.cne_municipality_2115
+cenipa_data.cne_parish_211601,PQ. JOSE RAMON YEPEZ,01,cenipa_data.cne_municipality_2116
+cenipa_data.cne_parish_211602,PQ. LA CONCEPCION,02,cenipa_data.cne_municipality_2116
+cenipa_data.cne_parish_211603,PQ. SAN JOSE,03,cenipa_data.cne_municipality_2116
+cenipa_data.cne_parish_211604,PQ. MARIANO PARRA LEON,04,cenipa_data.cne_municipality_2116
+cenipa_data.cne_parish_211701,PQ. MONAGAS,01,cenipa_data.cne_municipality_2117
+cenipa_data.cne_parish_211702,PQ. ISLA DE TOAS,02,cenipa_data.cne_municipality_2117
+cenipa_data.cne_parish_211801,PQ. MARCIAL HERNANDEZ,01,cenipa_data.cne_municipality_2118
+cenipa_data.cne_parish_211802,PQ. FRANCISCO OCHOA,02,cenipa_data.cne_municipality_2118
+cenipa_data.cne_parish_211803,PQ. SAN FRANCISCO,03,cenipa_data.cne_municipality_2118
+cenipa_data.cne_parish_211804,PQ. EL BAJO,04,cenipa_data.cne_municipality_2118
+cenipa_data.cne_parish_211805,PQ. DOMITILA FLORES,05,cenipa_data.cne_municipality_2118
+cenipa_data.cne_parish_211806,PQ. LOS CORTIJOS,06,cenipa_data.cne_municipality_2118
+cenipa_data.cne_parish_211901,PQ. BARI,01,cenipa_data.cne_municipality_2119
+cenipa_data.cne_parish_211902,PQ. JESUS M SEMPRUN,02,cenipa_data.cne_municipality_2119
+cenipa_data.cne_parish_212001,PQ. SIMON RODRIGUEZ,01,cenipa_data.cne_municipality_2120
+cenipa_data.cne_parish_212002,PQ. CARLOS QUEVEDO,02,cenipa_data.cne_municipality_2120
+cenipa_data.cne_parish_212003,PQ. FRANCISCO J PULGAR,03,cenipa_data.cne_municipality_2120
+cenipa_data.cne_parish_212101,PQ. RAFAEL MARIA BARALT,01,cenipa_data.cne_municipality_2121
+cenipa_data.cne_parish_212102,PQ. MANUEL MANRIQUE,02,cenipa_data.cne_municipality_2121
+cenipa_data.cne_parish_212103,PQ. RAFAEL URDANETA,03,cenipa_data.cne_municipality_2121
+cenipa_data.cne_parish_220101,PQ. FERNANDO GIRON TOVAR,01,cenipa_data.cne_municipality_2201
+cenipa_data.cne_parish_220102,PQ. LUIS ALBERTO GOMEZ,02,cenipa_data.cne_municipality_2201
+cenipa_data.cne_parish_220103,PQ. PARHUEÑA,03,cenipa_data.cne_municipality_2201
+cenipa_data.cne_parish_220104,PQ. PLATANILLAL,04,cenipa_data.cne_municipality_2201
+cenipa_data.cne_parish_220201,CM. SAN FERNANDO DE ATABA,01,cenipa_data.cne_municipality_2202
+cenipa_data.cne_parish_220202,PQ. UCATA,02,cenipa_data.cne_municipality_2202
+cenipa_data.cne_parish_220203,PQ. YAPACANA,03,cenipa_data.cne_municipality_2202
+cenipa_data.cne_parish_220204,PQ. CANAME,04,cenipa_data.cne_municipality_2202
+cenipa_data.cne_parish_220301,CM. MAROA,01,cenipa_data.cne_municipality_2203
+cenipa_data.cne_parish_220302,PQ. VICTORINO,02,cenipa_data.cne_municipality_2203
+cenipa_data.cne_parish_220303,PQ. COMUNIDAD,03,cenipa_data.cne_municipality_2203
+cenipa_data.cne_parish_220401,CM. SAN CARLOS DE RIO NEG,01,cenipa_data.cne_municipality_2204
+cenipa_data.cne_parish_220402,PQ. SOLANO,02,cenipa_data.cne_municipality_2204
+cenipa_data.cne_parish_220403,PQ. CASIQUIARE,03,cenipa_data.cne_municipality_2204
+cenipa_data.cne_parish_220404,PQ. COCUY,04,cenipa_data.cne_municipality_2204
+cenipa_data.cne_parish_220501,CM. ISLA DE RATON,01,cenipa_data.cne_municipality_2205
+cenipa_data.cne_parish_220502,PQ. SAMARIAPO,02,cenipa_data.cne_municipality_2205
+cenipa_data.cne_parish_220503,PQ. SIPAPO,03,cenipa_data.cne_municipality_2205
+cenipa_data.cne_parish_220504,PQ. MUNDUAPO,04,cenipa_data.cne_municipality_2205
+cenipa_data.cne_parish_220505,PQ. GUAYAPO,05,cenipa_data.cne_municipality_2205
+cenipa_data.cne_parish_220601,CM. SAN JUAN DE MANAPIARE,01,cenipa_data.cne_municipality_2206
+cenipa_data.cne_parish_220602,PQ. ALTO VENTUARI,02,cenipa_data.cne_municipality_2206
+cenipa_data.cne_parish_220603,PQ. MEDIO VENTUARI,03,cenipa_data.cne_municipality_2206
+cenipa_data.cne_parish_220604,PQ. BAJO VENTUARI,04,cenipa_data.cne_municipality_2206
+cenipa_data.cne_parish_220701,CM. LA ESMERALDA,01,cenipa_data.cne_municipality_2207
+cenipa_data.cne_parish_220702,PQ. HUACHAMACARE,02,cenipa_data.cne_municipality_2207
+cenipa_data.cne_parish_220703,PQ. MARAWAKA,03,cenipa_data.cne_municipality_2207
+cenipa_data.cne_parish_220704,PQ. MAVACA,04,cenipa_data.cne_municipality_2207
+cenipa_data.cne_parish_220705,PQ. SIERRA PARIMA,05,cenipa_data.cne_municipality_2207
+cenipa_data.cne_parish_230101,PQ. SAN JOSE,01,cenipa_data.cne_municipality_2301
+cenipa_data.cne_parish_230102,PQ. VIRGEN DEL VALLE,02,cenipa_data.cne_municipality_2301
+cenipa_data.cne_parish_230103,PQ. SAN RAFAEL,03,cenipa_data.cne_municipality_2301
+cenipa_data.cne_parish_230104,PQ. JOSE VIDAL MARCANO,04,cenipa_data.cne_municipality_2301
+cenipa_data.cne_parish_230105,PQ. LEONARDO RUIZ PINEDA,05,cenipa_data.cne_municipality_2301
+cenipa_data.cne_parish_230106,PQ. MONS. ARGIMIRO GARCIA,06,cenipa_data.cne_municipality_2301
+cenipa_data.cne_parish_230107,PQ.MCL.ANTONIO J DE SUCRE,07,cenipa_data.cne_municipality_2301
+cenipa_data.cne_parish_230108,PQ. JUAN MILLAN,08,cenipa_data.cne_municipality_2301
+cenipa_data.cne_parish_230201,PQ. PEDERNALES,01,cenipa_data.cne_municipality_2302
+cenipa_data.cne_parish_230202,PQ. LUIS B. PRIETO F.,02,cenipa_data.cne_municipality_2302
+cenipa_data.cne_parish_230301,PQ. CURIAPO,01,cenipa_data.cne_municipality_2303
+cenipa_data.cne_parish_230302,PQ. SANTOS DE ABELGAS,02,cenipa_data.cne_municipality_2303
+cenipa_data.cne_parish_230303,PQ. MANUEL RENAUD,03,cenipa_data.cne_municipality_2303
+cenipa_data.cne_parish_230304,PQ. PADRE BARRAL,04,cenipa_data.cne_municipality_2303
+cenipa_data.cne_parish_230305,PQ. ANICETO LUGO,05,cenipa_data.cne_municipality_2303
+cenipa_data.cne_parish_230306,PQ. ALMIRANTE LUIS BRION,06,cenipa_data.cne_municipality_2303
+cenipa_data.cne_parish_230401,PQ. IMATACA,01,cenipa_data.cne_municipality_2304
+cenipa_data.cne_parish_230402,PQ. ROMULO GALLEGOS,02,cenipa_data.cne_municipality_2304
+cenipa_data.cne_parish_230403,PQ. JUAN BAUTISTA ARISMEN,03,cenipa_data.cne_municipality_2304
+cenipa_data.cne_parish_230404,PQ. MANUEL PIAR,04,cenipa_data.cne_municipality_2304
+cenipa_data.cne_parish_240101,PQ. CARABALLEDA,01,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_240102,PQ. CARAYACA,02,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_240103,PQ. CARUAO,03,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_240104,PQ. CATIA LA MAR,04,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_240105,PQ. LA GUAIRA,05,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_240106,PQ. MACUTO,06,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_240107,PQ. MAIQUETIA,07,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_240108,PQ. NAIGUATA,08,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_240109,PQ. EL JUNKO,09,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_240110,PQ. URIMARE,10,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_240111,PQ. CARLOS SOUBLETTE,11,cenipa_data.cne_municipality_2401
+cenipa_data.cne_parish_161303,PQ. THERMO MORALES,03,cenipa_data.cne_municipality_1613
+cenipa_data.cne_parish_161401,CM. EL PLAYON,01,cenipa_data.cne_municipality_1614
+cenipa_data.cne_parish_161402,PQ. FLORIDA,02,cenipa_data.cne_municipality_1614
+cenipa_data.cne_parish_170101,PQ. RIO CARIBE,01,cenipa_data.cne_municipality_1701
+cenipa_data.cne_parish_170102,PQ. SAN JUAN DE LAS GALDO,02,cenipa_data.cne_municipality_1701
+cenipa_data.cne_parish_170103,PQ. PUERTO SANTO,03,cenipa_data.cne_municipality_1701
+cenipa_data.cne_parish_170104,PQ. EL MORRO DE PTO SANTO,04,cenipa_data.cne_municipality_1701
+cenipa_data.cne_parish_170105,PQ. ANTONIO JOSE DE SUCRE,05,cenipa_data.cne_municipality_1701
+cenipa_data.cne_parish_170201,PQ. EL PILAR,01,cenipa_data.cne_municipality_1702
+cenipa_data.cne_parish_170202,PQ. EL RINCON,02,cenipa_data.cne_municipality_1702
+cenipa_data.cne_parish_170203,PQ. GUARAUNOS,03,cenipa_data.cne_municipality_1702
+cenipa_data.cne_parish_170204,PQ. TUNAPUICITO,04,cenipa_data.cne_municipality_1702
+cenipa_data.cne_parish_170205,PQ. UNION,05,cenipa_data.cne_municipality_1702
+cenipa_data.cne_parish_170206,PQ. GRAL FCO. A VASQUEZ,06,cenipa_data.cne_municipality_1702
+cenipa_data.cne_parish_170301,PQ. SANTA CATALINA,01,cenipa_data.cne_municipality_1703
+cenipa_data.cne_parish_170302,PQ. SANTA ROSA,02,cenipa_data.cne_municipality_1703
+cenipa_data.cne_parish_170303,PQ. SANTA TERESA,03,cenipa_data.cne_municipality_1703
+cenipa_data.cne_parish_170304,PQ. BOLIVAR,04,cenipa_data.cne_municipality_1703
+cenipa_data.cne_parish_170305,PQ. MACARAPANA,05,cenipa_data.cne_municipality_1703
+cenipa_data.cne_parish_170401,PQ. YAGUARAPARO,01,cenipa_data.cne_municipality_1704
+cenipa_data.cne_parish_170402,PQ. LIBERTAD,02,cenipa_data.cne_municipality_1704
+cenipa_data.cne_parish_170403,PQ. PAUJIL,03,cenipa_data.cne_municipality_1704
+cenipa_data.cne_parish_170501,PQ. IRAPA,01,cenipa_data.cne_municipality_1705
+cenipa_data.cne_parish_170502,PQ. CAMPO CLARO,02,cenipa_data.cne_municipality_1705
+cenipa_data.cne_parish_170503,PQ. SORO,03,cenipa_data.cne_municipality_1705
+cenipa_data.cne_parish_170504,PQ. SAN ANTONIO DE IRAPA,04,cenipa_data.cne_municipality_1705
+cenipa_data.cne_parish_170505,PQ. MARABAL,05,cenipa_data.cne_municipality_1705
+cenipa_data.cne_parish_170601,CM. SAN ANT DEL GOLFO,01,cenipa_data.cne_municipality_1706
+cenipa_data.cne_parish_170701,PQ. CUMANACOA,01,cenipa_data.cne_municipality_1707
+cenipa_data.cne_parish_170702,PQ. ARENAS,02,cenipa_data.cne_municipality_1707
+cenipa_data.cne_parish_170703,PQ. ARICAGUA,03,cenipa_data.cne_municipality_1707
+cenipa_data.cne_parish_170704,PQ. COCOLLAR,04,cenipa_data.cne_municipality_1707
+cenipa_data.cne_parish_170705,PQ. SAN FERNANDO,05,cenipa_data.cne_municipality_1707
+cenipa_data.cne_parish_170706,PQ. SAN LORENZO,06,cenipa_data.cne_municipality_1707
+cenipa_data.cne_parish_170801,PQ. CARIACO,01,cenipa_data.cne_municipality_1708
+cenipa_data.cne_parish_170802,PQ. CATUARO,02,cenipa_data.cne_municipality_1708
+cenipa_data.cne_parish_170803,PQ. RENDON,03,cenipa_data.cne_municipality_1708
+cenipa_data.cne_parish_170804,PQ. SANTA CRUZ,04,cenipa_data.cne_municipality_1708
+cenipa_data.cne_parish_170805,PQ. SANTA MARIA,05,cenipa_data.cne_municipality_1708
+cenipa_data.cne_parish_170901,PQ. ALTAGRACIA,01,cenipa_data.cne_municipality_1709
+cenipa_data.cne_parish_170902,PQ. AYACUCHO,02,cenipa_data.cne_municipality_1709
+cenipa_data.cne_parish_170903,PQ. SANTA INES,03,cenipa_data.cne_municipality_1709
+cenipa_data.cne_parish_170904,PQ. VALENTIN VALIENTE,04,cenipa_data.cne_municipality_1709
+cenipa_data.cne_parish_170905,PQ. SAN JUAN,05,cenipa_data.cne_municipality_1709
+cenipa_data.cne_parish_170906,PQ.GRAN MARISCAL,06,cenipa_data.cne_municipality_1709
+cenipa_data.cne_parish_170907,PQ. RAUL LEONI,07,cenipa_data.cne_municipality_1709
+cenipa_data.cne_parish_171001,PQ. GUIRIA,01,cenipa_data.cne_municipality_1710
+cenipa_data.cne_parish_171002,PQ. CRISTOBAL COLON,02,cenipa_data.cne_municipality_1710
+cenipa_data.cne_parish_171003,PQ. PUNTA DE PIEDRAS,03,cenipa_data.cne_municipality_1710
+cenipa_data.cne_parish_171004,PQ. BIDEAU,04,cenipa_data.cne_municipality_1710
+cenipa_data.cne_parish_171101,PQ. MARIÑO,01,cenipa_data.cne_municipality_1711
+cenipa_data.cne_parish_171102,PQ. ROMULO GALLEGOS,02,cenipa_data.cne_municipality_1711
+cenipa_data.cne_parish_171201,PQ. TUNAPUY,01,cenipa_data.cne_municipality_1712
+cenipa_data.cne_parish_171202,PQ. CAMPO ELIAS,02,cenipa_data.cne_municipality_1712
+cenipa_data.cne_parish_171301,PQ. SAN JOSE DE AEROCUAR,01,cenipa_data.cne_municipality_1713
+cenipa_data.cne_parish_171302,PQ. TAVERA ACOSTA,02,cenipa_data.cne_municipality_1713
+cenipa_data.cne_parish_171401,CM. MARIGUITAR,01,cenipa_data.cne_municipality_1714
+cenipa_data.cne_parish_171501,PQ. ARAYA,01,cenipa_data.cne_municipality_1715
+cenipa_data.cne_parish_171502,PQ. MANICUARE,02,cenipa_data.cne_municipality_1715
+cenipa_data.cne_parish_171503,PQ. CHACOPATA,03,cenipa_data.cne_municipality_1715
+cenipa_data.cne_parish_180101,CM. COLON,01,cenipa_data.cne_municipality_1801
+cenipa_data.cne_parish_180102,PQ. RIVAS BERTI,02,cenipa_data.cne_municipality_1801
+cenipa_data.cne_parish_180103,PQ. SAN PEDRO DEL RIO,03,cenipa_data.cne_municipality_1801
+cenipa_data.cne_parish_180201,CM. SAN ANT DEL TACHIRA,01,cenipa_data.cne_municipality_1802
+cenipa_data.cne_parish_180202,PQ. PALOTAL,02,cenipa_data.cne_municipality_1802
+cenipa_data.cne_parish_180203,PQ. JUAN VICENTE GOMEZ,03,cenipa_data.cne_municipality_1802
+cenipa_data.cne_parish_180204,PQ. ISAIAS MEDINA ANGARIT,04,cenipa_data.cne_municipality_1802
+cenipa_data.cne_parish_180301,CM. CAPACHO NUEVO,01,cenipa_data.cne_municipality_1803
+cenipa_data.cne_parish_180302,PQ. JUAN GERMAN ROSCIO,02,cenipa_data.cne_municipality_1803
+cenipa_data.cne_parish_180303,PQ. ROMAN CARDENAS,03,cenipa_data.cne_municipality_1803
+cenipa_data.cne_parish_180401,CM. TARIBA,01,cenipa_data.cne_municipality_1804
+cenipa_data.cne_parish_180402,PQ. LA FLORIDA,02,cenipa_data.cne_municipality_1804
+cenipa_data.cne_parish_180403,PQ. AMENODORO RANGEL LAMU,03,cenipa_data.cne_municipality_1804
+cenipa_data.cne_parish_180501,CM. LA GRITA,01,cenipa_data.cne_municipality_1805
+cenipa_data.cne_parish_180502,PQ. EMILIO C. GUERRERO,02,cenipa_data.cne_municipality_1805
+cenipa_data.cne_parish_180503,PQ. MONS. MIGUEL A SALAS,03,cenipa_data.cne_municipality_1805
+cenipa_data.cne_parish_180601,CM. RUBIO,01,cenipa_data.cne_municipality_1806
+cenipa_data.cne_parish_180602,PQ. BRAMON,02,cenipa_data.cne_municipality_1806
+cenipa_data.cne_parish_180603,PQ. LA PETROLEA,03,cenipa_data.cne_municipality_1806
+cenipa_data.cne_parish_180604,PQ. QUINIMARI,04,cenipa_data.cne_municipality_1806
+cenipa_data.cne_parish_180701,CM. LOBATERA,01,cenipa_data.cne_municipality_1807
+cenipa_data.cne_parish_180702,PQ. CONSTITUCION,02,cenipa_data.cne_municipality_1807
+cenipa_data.cne_parish_180801,PQ. LA CONCORDIA,01,cenipa_data.cne_municipality_1808
+cenipa_data.cne_parish_180802,PQ. PEDRO MARIA MORANTES,02,cenipa_data.cne_municipality_1808
+cenipa_data.cne_parish_180803,PQ. SN JUAN BAUTISTA,03,cenipa_data.cne_municipality_1808
+cenipa_data.cne_parish_180804,PQ. SAN SEBASTIAN,04,cenipa_data.cne_municipality_1808
+cenipa_data.cne_parish_180805,PQ. DR. FCO. ROMERO LOBO,05,cenipa_data.cne_municipality_1808
+cenipa_data.cne_parish_180901,CM. PREGONERO,01,cenipa_data.cne_municipality_1809
+cenipa_data.cne_parish_180902,PQ. CARDENAS,02,cenipa_data.cne_municipality_1809
+cenipa_data.cne_parish_180903,PQ. POTOSI,03,cenipa_data.cne_municipality_1809
+cenipa_data.cne_parish_180904,PQ. JUAN PABLO PEÑALOZA,04,cenipa_data.cne_municipality_1809
+cenipa_data.cne_parish_181001,CM. STA. ANA  DEL TACHIRA,01,cenipa_data.cne_municipality_1810
+cenipa_data.cne_parish_181101,CM. LA FRIA,01,cenipa_data.cne_municipality_1811
+cenipa_data.cne_parish_181102,PQ. BOCA DE GRITA,02,cenipa_data.cne_municipality_1811
+cenipa_data.cne_parish_181103,PQ. JOSE ANTONIO PAEZ,03,cenipa_data.cne_municipality_1811
+cenipa_data.cne_parish_181201,CM. PALMIRA,01,cenipa_data.cne_municipality_1812
+cenipa_data.cne_parish_181301,CM. MICHELENA,01,cenipa_data.cne_municipality_1813
+cenipa_data.cne_parish_181401,CM. ABEJALES,01,cenipa_data.cne_municipality_1814
+cenipa_data.cne_parish_181402,PQ. SAN JOAQUIN DE NAVAY,02,cenipa_data.cne_municipality_1814
+cenipa_data.cne_parish_181403,PQ. DORADAS,03,cenipa_data.cne_municipality_1814
+cenipa_data.cne_parish_181404,PQ. EMETERIO OCHOA,04,cenipa_data.cne_municipality_1814
+cenipa_data.cne_parish_181501,CM. COLONCITO,01,cenipa_data.cne_municipality_1815
+cenipa_data.cne_parish_181502,PQ. LA PALMITA,02,cenipa_data.cne_municipality_1815
+cenipa_data.cne_parish_181601,CM. UREÑA,01,cenipa_data.cne_municipality_1816
+cenipa_data.cne_parish_181602,PQ. NUEVA ARCADIA,02,cenipa_data.cne_municipality_1816
+cenipa_data.cne_parish_181701,CM. QUENIQUEA,01,cenipa_data.cne_municipality_1817
+cenipa_data.cne_parish_181702,PQ. SAN PABLO,02,cenipa_data.cne_municipality_1817
+cenipa_data.cne_parish_181703,PQ.ELEAZAR LOPEZ CONTRERA,03,cenipa_data.cne_municipality_1817
+cenipa_data.cne_parish_181801,CM. CORDERO,01,cenipa_data.cne_municipality_1818
+cenipa_data.cne_parish_181901,CM.SAN RAFAEL DEL PIÑAL,01,cenipa_data.cne_municipality_1819
+cenipa_data.cne_parish_181902,PQ. SANTO DOMINGO,02,cenipa_data.cne_municipality_1819
+cenipa_data.cne_parish_181903,PQ. ALBERTO ADRIANI,03,cenipa_data.cne_municipality_1819
+cenipa_data.cne_parish_182001,CM. CAPACHO VIEJO,01,cenipa_data.cne_municipality_1820
+cenipa_data.cne_parish_182002,PQ. CIPRIANO CASTRO,02,cenipa_data.cne_municipality_1820
+cenipa_data.cne_parish_182003,PQ. MANUEL FELIPE RUGELES,03,cenipa_data.cne_municipality_1820
+cenipa_data.cne_parish_182101,CM. LA TENDIDA,01,cenipa_data.cne_municipality_1821
+cenipa_data.cne_parish_182102,PQ. BOCONO,02,cenipa_data.cne_municipality_1821
+cenipa_data.cne_parish_182103,PQ. HERNANDEZ,03,cenipa_data.cne_municipality_1821
+cenipa_data.cne_parish_182201,CM. SEBORUCO,01,cenipa_data.cne_municipality_1822
+cenipa_data.cne_parish_182301,CM. LAS MESAS,01,cenipa_data.cne_municipality_1823
+cenipa_data.cne_parish_182401,CM. SAN JOSE DE BOLIVAR,01,cenipa_data.cne_municipality_1824
+cenipa_data.cne_parish_182501,CM. EL COBRE,01,cenipa_data.cne_municipality_1825
+cenipa_data.cne_parish_182601,CM. DELICIAS,01,cenipa_data.cne_municipality_1826
+cenipa_data.cne_parish_182701,CM. SAN SIMON,01,cenipa_data.cne_municipality_1827
+cenipa_data.cne_parish_182801,CM. SAN JOSECITO,01,cenipa_data.cne_municipality_1828
+cenipa_data.cne_parish_182901,CM. UMUQUENA,01,cenipa_data.cne_municipality_1829
+cenipa_data.cne_parish_190101,PQ. BETIJOQUE,01,cenipa_data.cne_municipality_1901
+cenipa_data.cne_parish_190102,PQ. JOSE G HERNANDEZ,02,cenipa_data.cne_municipality_1901
+cenipa_data.cne_parish_190103,PQ. LA PUEBLITA,03,cenipa_data.cne_municipality_1901
+cenipa_data.cne_parish_190104,PQ. EL CEDRO,04,cenipa_data.cne_municipality_1901
+cenipa_data.cne_parish_190201,PQ. BOCONO,01,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190202,PQ. EL CARMEN,02,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190203,PQ. MOSQUEY,03,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190204,PQ. AYACUCHO,04,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190205,PQ. BURBUSAY,05,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190206,PQ. GENERAL RIVAS,06,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190207,PQ. MONSEÑOR JAUREGUI,07,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190208,PQ. RAFAEL RANGEL,08,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190209,PQ. SAN JOSE,09,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190210,PQ. SAN MIGUEL,10,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190211,PQ. GUARAMACAL,11,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190212,PQ. LA VEGA DE GUARAMACAL,12,cenipa_data.cne_municipality_1902
+cenipa_data.cne_parish_190301,PQ. CARACHE,01,cenipa_data.cne_municipality_1903
+cenipa_data.cne_parish_190302,PQ. LA CONCEPCION,02,cenipa_data.cne_municipality_1903
+cenipa_data.cne_parish_190303,PQ. CUICAS,03,cenipa_data.cne_municipality_1903
+cenipa_data.cne_parish_190304,PQ. PANAMERICANA,04,cenipa_data.cne_municipality_1903
+cenipa_data.cne_parish_190305,PQ. SANTA CRUZ,05,cenipa_data.cne_municipality_1903
+cenipa_data.cne_parish_190401,PQ. ESCUQUE,01,cenipa_data.cne_municipality_1904
+cenipa_data.cne_parish_190402,PQ. SABANA LIBRE,02,cenipa_data.cne_municipality_1904
+cenipa_data.cne_parish_190403,PQ. LA UNION,03,cenipa_data.cne_municipality_1904
+cenipa_data.cne_parish_190404,PQ. SANTA RITA,04,cenipa_data.cne_municipality_1904
+cenipa_data.cne_parish_190501,PQ. CRISTOBAL MENDOZA,01,cenipa_data.cne_municipality_1905
+cenipa_data.cne_parish_190502,PQ. CHIQUINQUIRA,02,cenipa_data.cne_municipality_1905
+cenipa_data.cne_parish_190503,PQ. MATRIZ,03,cenipa_data.cne_municipality_1905
+cenipa_data.cne_parish_190504,PQ. MONSEÑOR CARRILLO,04,cenipa_data.cne_municipality_1905
+cenipa_data.cne_parish_190505,PQ. CRUZ CARRILLO,05,cenipa_data.cne_municipality_1905
+cenipa_data.cne_parish_190506,PQ. ANDRES LINARES,06,cenipa_data.cne_municipality_1905
+cenipa_data.cne_parish_190507,PQ. TRES ESQUINAS,07,cenipa_data.cne_municipality_1905
+cenipa_data.cne_parish_190601,PQ. LA QUEBRADA,01,cenipa_data.cne_municipality_1906
+cenipa_data.cne_parish_190602,PQ. JAJO,02,cenipa_data.cne_municipality_1906
+cenipa_data.cne_parish_190603,PQ. LA MESA,03,cenipa_data.cne_municipality_1906
+cenipa_data.cne_parish_190604,PQ. SANTIAGO,04,cenipa_data.cne_municipality_1906
+cenipa_data.cne_parish_190605,PQ. CABIMBU,05,cenipa_data.cne_municipality_1906
+cenipa_data.cne_parish_190606,PQ. TUÑAME,06,cenipa_data.cne_municipality_1906
+cenipa_data.cne_parish_190701,PQ. MERCEDES DIAZ,01,cenipa_data.cne_municipality_1907
+cenipa_data.cne_parish_190702,PQ. JUAN IGNACIO MONTILLA,02,cenipa_data.cne_municipality_1907
+cenipa_data.cne_parish_190703,PQ. LA BEATRIZ,03,cenipa_data.cne_municipality_1907
+cenipa_data.cne_parish_190704,PQ. MENDOZA,04,cenipa_data.cne_municipality_1907
+cenipa_data.cne_parish_190705,PQ. LA PUERTA,05,cenipa_data.cne_municipality_1907
+cenipa_data.cne_parish_190706,PQ. SAN LUIS,06,cenipa_data.cne_municipality_1907
+cenipa_data.cne_parish_190801,PQ. CHEJENDE,01,cenipa_data.cne_municipality_1908
+cenipa_data.cne_parish_190802,PQ. CARRILLO,02,cenipa_data.cne_municipality_1908
+cenipa_data.cne_parish_190803,PQ. CEGARRA,03,cenipa_data.cne_municipality_1908
+cenipa_data.cne_parish_190804,PQ. BOLIVIA,04,cenipa_data.cne_municipality_1908
+cenipa_data.cne_parish_190805,PQ. MANUEL SALVADOR ULLOA,05,cenipa_data.cne_municipality_1908
+cenipa_data.cne_parish_190806,PQ. SAN JOSE,06,cenipa_data.cne_municipality_1908
+cenipa_data.cne_parish_190807,PQ. ARNOLDO GABALDON,07,cenipa_data.cne_municipality_1908
+cenipa_data.cne_parish_190901,PQ. EL DIVIDIVE,01,cenipa_data.cne_municipality_1909
+cenipa_data.cne_parish_190902,PQ. AGUA CALIENTE,02,cenipa_data.cne_municipality_1909
+cenipa_data.cne_parish_190903,PQ. EL CENIZO,03,cenipa_data.cne_municipality_1909
+cenipa_data.cne_parish_190904,PQ. AGUA SANTA,04,cenipa_data.cne_municipality_1909
+cenipa_data.cne_parish_190905,PQ. VALERITA,05,cenipa_data.cne_municipality_1909
+cenipa_data.cne_parish_191001,PQ. MONTE CARMELO,01,cenipa_data.cne_municipality_1910
+cenipa_data.cne_parish_191002,PQ. BUENA VISTA,02,cenipa_data.cne_municipality_1910
+cenipa_data.cne_parish_191003,PQ. STA MARIA DEL HORCON,03,cenipa_data.cne_municipality_1910
+cenipa_data.cne_parish_191101,PQ. MOTATAN,01,cenipa_data.cne_municipality_1911
+cenipa_data.cne_parish_191102,PQ. EL BAÑO,02,cenipa_data.cne_municipality_1911
+cenipa_data.cne_parish_191103,PQ. JALISCO,03,cenipa_data.cne_municipality_1911
+cenipa_data.cne_parish_191201,PQ. PAMPAN,01,cenipa_data.cne_municipality_1912
+cenipa_data.cne_parish_191202,PQ. SANTA ANA,02,cenipa_data.cne_municipality_1912
+cenipa_data.cne_parish_191203,PQ. LA PAZ,03,cenipa_data.cne_municipality_1912
+cenipa_data.cne_parish_191204,PQ. FLOR DE PATRIA,04,cenipa_data.cne_municipality_1912
+cenipa_data.cne_parish_191301,PQ. CARVAJAL,01,cenipa_data.cne_municipality_1913
+cenipa_data.cne_parish_191302,PQ. ANTONIO N BRICEÑO,02,cenipa_data.cne_municipality_1913
+cenipa_data.cne_parish_191303,PQ. CAMPO ALEGRE,03,cenipa_data.cne_municipality_1913
+cenipa_data.cne_parish_191304,PQ. JOSE LEONARDO SUAREZ,04,cenipa_data.cne_municipality_1913
+cenipa_data.cne_parish_191401,PQ. SABANA DE MENDOZA,01,cenipa_data.cne_municipality_1914
+cenipa_data.cne_parish_191402,PQ. JUNIN,02,cenipa_data.cne_municipality_1914
+cenipa_data.cne_parish_191403,PQ. VALMORE RODRIGUEZ,03,cenipa_data.cne_municipality_1914
+cenipa_data.cne_parish_191404,PQ. EL PARAISO,04,cenipa_data.cne_municipality_1914
+cenipa_data.cne_parish_191501,PQ. SANTA ISABEL,01,cenipa_data.cne_municipality_1915
+cenipa_data.cne_parish_191502,PQ. ARAGUANEY,02,cenipa_data.cne_municipality_1915
+cenipa_data.cne_parish_191503,PQ. EL JAGUITO,03,cenipa_data.cne_municipality_1915
+cenipa_data.cne_parish_191504,PQ. LA ESPERANZA,04,cenipa_data.cne_municipality_1915
+cenipa_data.cne_parish_191601,PQ. SABANA GRANDE,01,cenipa_data.cne_municipality_1916
+cenipa_data.cne_parish_191602,PQ. CHEREGUE,02,cenipa_data.cne_municipality_1916
+cenipa_data.cne_parish_191603,PQ. GRANADOS,03,cenipa_data.cne_municipality_1916
+cenipa_data.cne_parish_191701,PQ. EL SOCORRO,01,cenipa_data.cne_municipality_1917
+cenipa_data.cne_parish_191702,PQ. LOS CAPRICHOS,02,cenipa_data.cne_municipality_1917
+cenipa_data.cne_parish_191703,PQ. ANTONIO JOSE DE SUCRE,03,cenipa_data.cne_municipality_1917
+cenipa_data.cne_parish_191801,PQ. CAMPO ELIAS,01,cenipa_data.cne_municipality_1918
+cenipa_data.cne_parish_191802,PQ. ARNOLDO GABALDON,02,cenipa_data.cne_municipality_1918
+cenipa_data.cne_parish_191901,PQ. SANTA APOLONIA,01,cenipa_data.cne_municipality_1919
+cenipa_data.cne_parish_191902,PQ. LA CEIBA,02,cenipa_data.cne_municipality_1919
+cenipa_data.cne_parish_191903,PQ. EL PROGRESO,03,cenipa_data.cne_municipality_1919
+cenipa_data.cne_parish_191904,PQ. TRES DE FEBRERO,04,cenipa_data.cne_municipality_1919
+cenipa_data.cne_parish_192001,PQ. PAMPANITO,01,cenipa_data.cne_municipality_1920
+cenipa_data.cne_parish_192002,PQ. PAMPANITO II,02,cenipa_data.cne_municipality_1920
+cenipa_data.cne_parish_192003,PQ. LA CONCEPCION,03,cenipa_data.cne_municipality_1920
+cenipa_data.cne_parish_200101,CM. AROA,01,cenipa_data.cne_municipality_2001
+cenipa_data.cne_parish_200201,CM. CHIVACOA,01,cenipa_data.cne_municipality_2002
+cenipa_data.cne_parish_200202,PQ. CAMPO ELIAS,02,cenipa_data.cne_municipality_2002
+cenipa_data.cne_parish_200301,CM. NIRGUA,01,cenipa_data.cne_municipality_2003
+cenipa_data.cne_parish_200302,PQ. SALOM,02,cenipa_data.cne_municipality_2003
+cenipa_data.cne_parish_200303,PQ. TEMERLA,03,cenipa_data.cne_municipality_2003
+cenipa_data.cne_parish_200401,CM. SAN FELIPE,01,cenipa_data.cne_municipality_2004
+cenipa_data.cne_parish_200402,PQ. ALBARICO,02,cenipa_data.cne_municipality_2004
+cenipa_data.cne_parish_200403,PQ. SAN JAVIER,03,cenipa_data.cne_municipality_2004
+cenipa_data.cne_parish_200501,CM. GUAMA,01,cenipa_data.cne_municipality_2005
+cenipa_data.cne_parish_200601,CM. URACHICHE,01,cenipa_data.cne_municipality_2006
+cenipa_data.cne_parish_200701,CM. YARITAGUA,01,cenipa_data.cne_municipality_2007
+cenipa_data.cne_parish_200702,PQ. SAN ANDRES,02,cenipa_data.cne_municipality_2007
+cenipa_data.cne_parish_200801,CM. SABANA DE PARRA,01,cenipa_data.cne_municipality_2008
+cenipa_data.cne_parish_200901,CM. BORAURE,01,cenipa_data.cne_municipality_2009
+cenipa_data.cne_parish_201001,CM. COCOROTE,01,cenipa_data.cne_municipality_2010
+cenipa_data.cne_parish_201101,CM. INDEPENDENCIA,01,cenipa_data.cne_municipality_2011
+cenipa_data.cne_parish_201201,CM. SAN PABLO,01,cenipa_data.cne_municipality_2012
+cenipa_data.cne_parish_201301,CM. YUMARE,01,cenipa_data.cne_municipality_2013
+cenipa_data.cne_parish_201401,CM. FARRIAR,01,cenipa_data.cne_municipality_2014
+cenipa_data.cne_parish_201402,PQ. EL GUAYABO,02,cenipa_data.cne_municipality_2014
+cenipa_data.cne_parish_210101,PQ. GENERAL URDANETA,01,cenipa_data.cne_municipality_2101
+cenipa_data.cne_parish_210102,PQ. LIBERTADOR,02,cenipa_data.cne_municipality_2101
+cenipa_data.cne_parish_010101,PQ. ALTAGRACIA,01,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010102,PQ. CANDELARIA,02,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010103,PQ. CATEDRAL,03,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010104,PQ. LA PASTORA,04,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010105,PQ. SAN AGUSTIN,05,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010106,PQ. SAN JOSE,06,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010107,PQ. SAN JUAN,07,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010108,PQ. SANTA ROSALIA,08,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010109,PQ. SANTA TERESA,09,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010110,PQ. SUCRE,10,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010111,PQ. 23 DE ENERO,11,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010112,PQ. ANTIMANO,12,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010113,PQ. EL RECREO,13,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010114,PQ. EL VALLE,14,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010115,PQ. LA VEGA,15,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010116,PQ. MACARAO,16,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010117,PQ. CARICUAO,17,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010118,PQ. EL JUNQUITO,18,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010119,PQ. COCHE,19,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010120,PQ. SAN PEDRO,20,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010121,PQ. SAN BERNARDINO,21,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_010122,PQ. EL PARAISO,22,cenipa_data.cne_municipality_0101
+cenipa_data.cne_parish_020101,PQ. ANACO,01,cenipa_data.cne_municipality_0201
+cenipa_data.cne_parish_020102,PQ. SAN JOAQUIN,02,cenipa_data.cne_municipality_0201
+cenipa_data.cne_parish_020201,CM. ARAGUA DE BARCELONA,01,cenipa_data.cne_municipality_0202
+cenipa_data.cne_parish_020202,PQ. CACHIPO,02,cenipa_data.cne_municipality_0202
+cenipa_data.cne_parish_020301,PQ. EL CARMEN,01,cenipa_data.cne_municipality_0203
+cenipa_data.cne_parish_020302,PQ. SAN CRISTOBAL,02,cenipa_data.cne_municipality_0203
+cenipa_data.cne_parish_020303,PQ. BERGANTIN,03,cenipa_data.cne_municipality_0203
+cenipa_data.cne_parish_020304,PQ. CAIGUA,04,cenipa_data.cne_municipality_0203
+cenipa_data.cne_parish_020305,PQ. EL PILAR,05,cenipa_data.cne_municipality_0203
+cenipa_data.cne_parish_020306,PQ. NARICUAL,06,cenipa_data.cne_municipality_0203
+cenipa_data.cne_parish_020401,CM. CLARINES,01,cenipa_data.cne_municipality_0204
+cenipa_data.cne_parish_020402,PQ. GUANAPE,02,cenipa_data.cne_municipality_0204
+cenipa_data.cne_parish_020403,PQ. SABANA DE UCHIRE,03,cenipa_data.cne_municipality_0204
+cenipa_data.cne_parish_020501,CM. ONOTO,01,cenipa_data.cne_municipality_0205
+cenipa_data.cne_parish_020502,PQ. SAN PABLO,02,cenipa_data.cne_municipality_0205
+cenipa_data.cne_parish_020601,CM. CANTAURA,01,cenipa_data.cne_municipality_0206
+cenipa_data.cne_parish_020602,PQ. LIBERTADOR,02,cenipa_data.cne_municipality_0206
+cenipa_data.cne_parish_020603,PQ. SANTA ROSA,03,cenipa_data.cne_municipality_0206
+cenipa_data.cne_parish_020604,PQ. URICA,04,cenipa_data.cne_municipality_0206
+cenipa_data.cne_parish_020701,CM. SOLEDAD,01,cenipa_data.cne_municipality_0207
+cenipa_data.cne_parish_020702,PQ. MAMO,02,cenipa_data.cne_municipality_0207
+cenipa_data.cne_parish_020801,CM. SAN MATEO,01,cenipa_data.cne_municipality_0208
+cenipa_data.cne_parish_020802,PQ. EL CARITO,02,cenipa_data.cne_municipality_0208
+cenipa_data.cne_parish_020803,PQ. SANTA INES,03,cenipa_data.cne_municipality_0208
+cenipa_data.cne_parish_020901,CM. PARIAGUAN,01,cenipa_data.cne_municipality_0209
+cenipa_data.cne_parish_020902,PQ. ATAPIRIRE,02,cenipa_data.cne_municipality_0209
+cenipa_data.cne_parish_020903,PQ. BOCA DEL PAO,03,cenipa_data.cne_municipality_0209
+cenipa_data.cne_parish_020904,PQ. EL PAO,04,cenipa_data.cne_municipality_0209
+cenipa_data.cne_parish_021001,CM. MAPIRE,01,cenipa_data.cne_municipality_0210
+cenipa_data.cne_parish_021002,PQ. PIAR,02,cenipa_data.cne_municipality_0210
+cenipa_data.cne_parish_021003,PQ. SN DIEGO DE CABRUTICA,03,cenipa_data.cne_municipality_0210
+cenipa_data.cne_parish_021004,PQ. SANTA CLARA,04,cenipa_data.cne_municipality_0210
+cenipa_data.cne_parish_021005,PQ. UVERITO,05,cenipa_data.cne_municipality_0210
+cenipa_data.cne_parish_021006,PQ. ZUATA,06,cenipa_data.cne_municipality_0210
+cenipa_data.cne_parish_021101,CM. PUERTO PIRITU,01,cenipa_data.cne_municipality_0211
+cenipa_data.cne_parish_021102,PQ. SAN MIGUEL,02,cenipa_data.cne_municipality_0211
+cenipa_data.cne_parish_021103,PQ. SUCRE,03,cenipa_data.cne_municipality_0211
+cenipa_data.cne_parish_021201,CM. EL TIGRE,01,cenipa_data.cne_municipality_0212
+cenipa_data.cne_parish_021301,PQ. POZUELOS,01,cenipa_data.cne_municipality_0213
+cenipa_data.cne_parish_021401,CM. SAN JOSE DE GUANIPA,01,cenipa_data.cne_municipality_0214
+cenipa_data.cne_parish_021501,PQ. GUANTA,01,cenipa_data.cne_municipality_0215
+cenipa_data.cne_parish_021502,PQ. CHORRERON,02,cenipa_data.cne_municipality_0215
+cenipa_data.cne_parish_021601,PQ. PIRITU,01,cenipa_data.cne_municipality_0216
+cenipa_data.cne_parish_021602,PQ. SAN FRANCISCO,02,cenipa_data.cne_municipality_0216
+cenipa_data.cne_parish_021701,PQ. LECHERIAS,01,cenipa_data.cne_municipality_0217
+cenipa_data.cne_parish_021702,PQ. EL MORRO,02,cenipa_data.cne_municipality_0217
+cenipa_data.cne_parish_021801,PQ. VALLE GUANAPE,01,cenipa_data.cne_municipality_0218
+cenipa_data.cne_parish_021802,PQ. SANTA BARBARA,02,cenipa_data.cne_municipality_0218
+cenipa_data.cne_parish_021901,PQ. SANTA ANA,01,cenipa_data.cne_municipality_0219
+cenipa_data.cne_parish_021902,PQ. PUEBLO NUEVO,02,cenipa_data.cne_municipality_0219
+cenipa_data.cne_parish_022001,PQ. EL CHAPARRO,01,cenipa_data.cne_municipality_0220
+cenipa_data.cne_parish_022002,PQ.TOMAS ALFARO CALATRAVA,02,cenipa_data.cne_municipality_0220
+cenipa_data.cne_parish_022101,PQ. BOCA DE UCHIRE,01,cenipa_data.cne_municipality_0221
+cenipa_data.cne_parish_022102,PQ. BOCA DE CHAVEZ,02,cenipa_data.cne_municipality_0221
+cenipa_data.cne_parish_030101,PQ. ACHAGUAS,01,cenipa_data.cne_municipality_0301
+cenipa_data.cne_parish_030102,PQ. APURITO,02,cenipa_data.cne_municipality_0301
+cenipa_data.cne_parish_030103,PQ. EL YAGUAL,03,cenipa_data.cne_municipality_0301
+cenipa_data.cne_parish_030104,PQ. GUACHARA,04,cenipa_data.cne_municipality_0301
+cenipa_data.cne_parish_030105,PQ. MUCURITAS,05,cenipa_data.cne_municipality_0301
+cenipa_data.cne_parish_030106,PQ. QUESERAS DEL MEDIO,06,cenipa_data.cne_municipality_0301
+cenipa_data.cne_parish_030201,PQ. BRUZUAL,01,cenipa_data.cne_municipality_0302
+cenipa_data.cne_parish_030202,PQ. MANTECAL,02,cenipa_data.cne_municipality_0302
+cenipa_data.cne_parish_030203,PQ. QUINTERO,03,cenipa_data.cne_municipality_0302
+cenipa_data.cne_parish_030204,PQ. SAN VICENTE,04,cenipa_data.cne_municipality_0302
+cenipa_data.cne_parish_030205,PQ. RINCON HONDO,05,cenipa_data.cne_municipality_0302
+cenipa_data.cne_parish_030301,PQ. GUASDUALITO,01,cenipa_data.cne_municipality_0303
+cenipa_data.cne_parish_030302,PQ. ARAMENDI,02,cenipa_data.cne_municipality_0303
+cenipa_data.cne_parish_030303,PQ. EL AMPARO,03,cenipa_data.cne_municipality_0303
+cenipa_data.cne_parish_030304,PQ. SAN CAMILO,04,cenipa_data.cne_municipality_0303
+cenipa_data.cne_parish_030305,PQ. URDANETA,05,cenipa_data.cne_municipality_0303
+cenipa_data.cne_parish_030401,PQ. SAN JUAN DE PAYARA,01,cenipa_data.cne_municipality_0304
+cenipa_data.cne_parish_030402,PQ. CODAZZI,02,cenipa_data.cne_municipality_0304
+cenipa_data.cne_parish_030403,PQ. CUNAVICHE,03,cenipa_data.cne_municipality_0304
+cenipa_data.cne_parish_030501,PQ. ELORZA,01,cenipa_data.cne_municipality_0305
+cenipa_data.cne_parish_030502,PQ. LA TRINIDAD,02,cenipa_data.cne_municipality_0305
+cenipa_data.cne_parish_030601,PQ. SAN FERNANDO,01,cenipa_data.cne_municipality_0306
+cenipa_data.cne_parish_030602,PQ. PEÑALVER,02,cenipa_data.cne_municipality_0306
+cenipa_data.cne_parish_030603,PQ. EL RECREO,03,cenipa_data.cne_municipality_0306
+cenipa_data.cne_parish_030604,PQ. SN RAFAEL DE ATAMAICA,04,cenipa_data.cne_municipality_0306
+cenipa_data.cne_parish_030701,PQ. BIRUACA,01,cenipa_data.cne_municipality_0307
+cenipa_data.cne_parish_040101,PQ. LAS DELICIAS,01,cenipa_data.cne_municipality_0401
+cenipa_data.cne_parish_040102,PQ. CHORONI,02,cenipa_data.cne_municipality_0401
+cenipa_data.cne_parish_040103,PQ. MADRE MA DE SAN JOSE,03,cenipa_data.cne_municipality_0401
+cenipa_data.cne_parish_040104,PQ. JOAQUIN CRESPO,04,cenipa_data.cne_municipality_0401
+cenipa_data.cne_parish_040105,PQ. PEDRO JOSE OVALLES,05,cenipa_data.cne_municipality_0401
+cenipa_data.cne_parish_040106,PQ. JOSE CASANOVA GODOY,06,cenipa_data.cne_municipality_0401
+cenipa_data.cne_parish_040107,PQ. ANDRES ELOY BLANCO,07,cenipa_data.cne_municipality_0401
+cenipa_data.cne_parish_040108,PQ. LOS TACARIGUAS,08,cenipa_data.cne_municipality_0401
+cenipa_data.cne_parish_040201,CM. TURMERO,01,cenipa_data.cne_municipality_0402
+cenipa_data.cne_parish_040202,PQ. SAMAN DE GUERE,02,cenipa_data.cne_municipality_0402
+cenipa_data.cne_parish_040203,PQ. ALFREDO PACHECO M,03,cenipa_data.cne_municipality_0402
+cenipa_data.cne_parish_040204,PQ. CHUAO,04,cenipa_data.cne_municipality_0402
+cenipa_data.cne_parish_040205,PQ. AREVALO APONTE,05,cenipa_data.cne_municipality_0402
+cenipa_data.cne_parish_040301,CM. JUAN VICENTE BOLIVAR,01,cenipa_data.cne_municipality_0403
+cenipa_data.cne_parish_040302,PQ. ZUATA,02,cenipa_data.cne_municipality_0403
+cenipa_data.cne_parish_040303,PQ. PAO DE ZARATE,03,cenipa_data.cne_municipality_0403
+cenipa_data.cne_parish_040304,PQ. CASTOR NIEVES RIOS,04,cenipa_data.cne_municipality_0403
+cenipa_data.cne_parish_040305,PQ. LAS GUACAMAYAS,05,cenipa_data.cne_municipality_0403
+cenipa_data.cne_parish_040401,CM. SAN CASIMIRO,01,cenipa_data.cne_municipality_0404
+cenipa_data.cne_parish_040402,PQ. VALLE MORIN,02,cenipa_data.cne_municipality_0404
+cenipa_data.cne_parish_040403,PQ. GUIRIPA,03,cenipa_data.cne_municipality_0404
+cenipa_data.cne_parish_040404,PQ. OLLAS DE CARAMACATE,04,cenipa_data.cne_municipality_0404
+cenipa_data.cne_parish_040501,CM. SAN SEBASTIAN,01,cenipa_data.cne_municipality_0405
+cenipa_data.cne_parish_040601,CM. CAGUA,01,cenipa_data.cne_municipality_0406
+cenipa_data.cne_parish_040602,PQ. BELLA VISTA,02,cenipa_data.cne_municipality_0406
+cenipa_data.cne_parish_040701,CM. BARBACOAS,01,cenipa_data.cne_municipality_0407
+cenipa_data.cne_parish_040702,PQ. SAN FRANCISCO DE CARA,02,cenipa_data.cne_municipality_0407
+cenipa_data.cne_parish_040703,PQ. TAGUAY,03,cenipa_data.cne_municipality_0407
+cenipa_data.cne_parish_040704,PQ. LAS PEÑITAS,04,cenipa_data.cne_municipality_0407
+cenipa_data.cne_parish_040801,CM. VILLA DE CURA,01,cenipa_data.cne_municipality_0408
+cenipa_data.cne_parish_040802,PQ. MAGDALENO,02,cenipa_data.cne_municipality_0408
+cenipa_data.cne_parish_040803,PQ. SAN FRANCISCO DE ASIS,03,cenipa_data.cne_municipality_0408
+cenipa_data.cne_parish_040804,PQ. VALLES DE TUCUTUNEMO,04,cenipa_data.cne_municipality_0408
+cenipa_data.cne_parish_040805,PQ. PQ AUGUSTO MIJARES,05,cenipa_data.cne_municipality_0408
+cenipa_data.cne_parish_040901,CM. PALO NEGRO,01,cenipa_data.cne_municipality_0409
+cenipa_data.cne_parish_040902,PQ. SAN MARTIN DE PORRES,02,cenipa_data.cne_municipality_0409
+cenipa_data.cne_parish_041001,CM. SANTA CRUZ,01,cenipa_data.cne_municipality_0410
+cenipa_data.cne_parish_041101,CM. SAN MATEO,01,cenipa_data.cne_municipality_0411
+cenipa_data.cne_parish_041201,CM. LAS TEJERIAS,01,cenipa_data.cne_municipality_0412
+cenipa_data.cne_parish_041202,PQ. TIARA,02,cenipa_data.cne_municipality_0412
+cenipa_data.cne_parish_041301,CM. EL LIMON,01,cenipa_data.cne_municipality_0413
+cenipa_data.cne_parish_041302,PQ. CAÑA DE AZUCAR,02,cenipa_data.cne_municipality_0413
+cenipa_data.cne_parish_041401,CM. COLONIA TOVAR,01,cenipa_data.cne_municipality_0414
+cenipa_data.cne_parish_041501,CM. CAMATAGUA,01,cenipa_data.cne_municipality_0415
+cenipa_data.cne_parish_041502,PQ. CARMEN DE CURA,02,cenipa_data.cne_municipality_0415
+cenipa_data.cne_parish_041601,CM. EL CONSEJO,01,cenipa_data.cne_municipality_0416
+cenipa_data.cne_parish_041701,CM. SANTA RITA,01,cenipa_data.cne_municipality_0417
+cenipa_data.cne_parish_041702,PQ. FRANCISCO DE MIRANDA,02,cenipa_data.cne_municipality_0417
+cenipa_data.cne_parish_041703,PQ. MONS FELICIANO G,03,cenipa_data.cne_municipality_0417
+cenipa_data.cne_parish_041801,PQ. OCUMARE DE LA COSTA,01,cenipa_data.cne_municipality_0418
+cenipa_data.cne_parish_050101,PQ. ARISMENDI,01,cenipa_data.cne_municipality_0501
+cenipa_data.cne_parish_050102,PQ. GUADARRAMA,02,cenipa_data.cne_municipality_0501
+cenipa_data.cne_parish_050103,PQ. LA UNION,03,cenipa_data.cne_municipality_0501
+cenipa_data.cne_parish_050104,PQ. SAN ANTONIO,04,cenipa_data.cne_municipality_0501
+cenipa_data.cne_parish_050201,PQ. ALFREDO A LARRIVA,01,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050202,PQ. BARINAS,02,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050203,PQ. SAN SILVESTRE,03,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050204,PQ. SANTA INES,04,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050205,PQ. SANTA LUCIA,05,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050206,PQ. TORUNOS,06,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050207,PQ. EL CARMEN,07,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050208,PQ. ROMULO BETANCOURT,08,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050209,PQ. CORAZON DE JESUS,09,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050210,PQ. RAMON I MENDEZ,10,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050211,PQ. ALTO BARINAS,11,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050212,PQ. MANUEL P FAJARDO,12,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050213,PQ. JUAN A RODRIGUEZ D,13,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050214,PQ. DOMINGA ORTIZ P,14,cenipa_data.cne_municipality_0502
+cenipa_data.cne_parish_050301,PQ. ALTAMIRA,01,cenipa_data.cne_municipality_0503
+cenipa_data.cne_parish_050302,PQ. BARINITAS,02,cenipa_data.cne_municipality_0503
+cenipa_data.cne_parish_050303,PQ. CALDERAS,03,cenipa_data.cne_municipality_0503
+cenipa_data.cne_parish_050401,PQ. SANTA BARBARA,01,cenipa_data.cne_municipality_0504
+cenipa_data.cne_parish_050402,PQ.JOSE IGNACIO DEL PUMAR,02,cenipa_data.cne_municipality_0504
+cenipa_data.cne_parish_050403,PQ. RAMON IGNACIO MENDEZ,03,cenipa_data.cne_municipality_0504
+cenipa_data.cne_parish_050404,PQ. PEDRO BRICEÑO MENDEZ,04,cenipa_data.cne_municipality_0504
+cenipa_data.cne_parish_050501,PQ. EL REAL,01,cenipa_data.cne_municipality_0505
+cenipa_data.cne_parish_050502,PQ. LA LUZ,02,cenipa_data.cne_municipality_0505
+cenipa_data.cne_parish_050503,PQ. OBISPOS,03,cenipa_data.cne_municipality_0505
+cenipa_data.cne_parish_050504,PQ. LOS GUASIMITOS,04,cenipa_data.cne_municipality_0505
+cenipa_data.cne_parish_050601,PQ. CIUDAD BOLIVIA,01,cenipa_data.cne_municipality_0506
+cenipa_data.cne_parish_050602,PQ. IGNACIO BRICEÑO,02,cenipa_data.cne_municipality_0506
+cenipa_data.cne_parish_050603,PQ. PAEZ,03,cenipa_data.cne_municipality_0506
+cenipa_data.cne_parish_050604,PQ. JOSE FELIX RIBAS,04,cenipa_data.cne_municipality_0506
+cenipa_data.cne_parish_050701,PQ. DOLORES,01,cenipa_data.cne_municipality_0507
+cenipa_data.cne_parish_050702,PQ. LIBERTAD,02,cenipa_data.cne_municipality_0507
+cenipa_data.cne_parish_050703,PQ. PALACIOS FAJARDO,03,cenipa_data.cne_municipality_0507
+cenipa_data.cne_parish_050704,PQ. SANTA ROSA,04,cenipa_data.cne_municipality_0507
+cenipa_data.cne_parish_050801,PQ. CIUDAD DE NUTRIAS,01,cenipa_data.cne_municipality_0508
+cenipa_data.cne_parish_050802,PQ. EL REGALO,02,cenipa_data.cne_municipality_0508
+cenipa_data.cne_parish_050803,PQ. PUERTO DE NUTRIAS,03,cenipa_data.cne_municipality_0508
+cenipa_data.cne_parish_050804,PQ. SANTA CATALINA,04,cenipa_data.cne_municipality_0508
+cenipa_data.cne_parish_050901,PQ. RODRIGUEZ DOMINGUEZ,01,cenipa_data.cne_municipality_0509
+cenipa_data.cne_parish_050902,PQ. SABANETA,02,cenipa_data.cne_municipality_0509
+cenipa_data.cne_parish_051001,PQ. TICOPORO,01,cenipa_data.cne_municipality_0510
+cenipa_data.cne_parish_051002,PQ. NICOLAS PULIDO,02,cenipa_data.cne_municipality_0510
+cenipa_data.cne_parish_051003,PQ. ANDRES BELLO,03,cenipa_data.cne_municipality_0510
+cenipa_data.cne_parish_051101,PQ. BARRANCAS,01,cenipa_data.cne_municipality_0511
+cenipa_data.cne_parish_051102,PQ. EL SOCORRO,02,cenipa_data.cne_municipality_0511
+cenipa_data.cne_parish_051103,PQ. MASPARRITO,03,cenipa_data.cne_municipality_0511
+cenipa_data.cne_parish_051201,PQ. EL CANTON,01,cenipa_data.cne_municipality_0512
+cenipa_data.cne_parish_051202,PQ. SANTA CRUZ DE GUACAS,02,cenipa_data.cne_municipality_0512
+cenipa_data.cne_parish_051203,PQ. PUERTO VIVAS,03,cenipa_data.cne_municipality_0512
+cenipa_data.cne_parish_060101,PQ. SIMON BOLIVAR,01,cenipa_data.cne_municipality_0601
+cenipa_data.cne_parish_060102,PQ. ONCE DE ABRIL,02,cenipa_data.cne_municipality_0601
+cenipa_data.cne_parish_060103,PQ. VISTA AL SOL,03,cenipa_data.cne_municipality_0601
+cenipa_data.cne_parish_060104,PQ. CHIRICA,04,cenipa_data.cne_municipality_0601
+cenipa_data.cne_parish_060105,PQ. DALLA COSTA,05,cenipa_data.cne_municipality_0601
+cenipa_data.cne_parish_060106,PQ. CACHAMAY,06,cenipa_data.cne_municipality_0601
+cenipa_data.cne_parish_060107,PQ. UNIVERSIDAD,07,cenipa_data.cne_municipality_0601
+cenipa_data.cne_parish_060108,PQ. UNARE,08,cenipa_data.cne_municipality_0601
+cenipa_data.cne_parish_060109,PQ. YOCOIMA,09,cenipa_data.cne_municipality_0601
+cenipa_data.cne_parish_060110,PQ. POZO VERDE,10,cenipa_data.cne_municipality_0601
+cenipa_data.cne_parish_060201,CM. CAICARA DEL ORINOCO,01,cenipa_data.cne_municipality_0602
+cenipa_data.cne_parish_060202,PQ. ASCENSION FARRERAS,02,cenipa_data.cne_municipality_0602
+cenipa_data.cne_parish_060203,PQ. ALTAGRACIA,03,cenipa_data.cne_municipality_0602
+cenipa_data.cne_parish_060204,PQ. LA URBANA,04,cenipa_data.cne_municipality_0602
+cenipa_data.cne_parish_060205,PQ. GUANIAMO,05,cenipa_data.cne_municipality_0602
+cenipa_data.cne_parish_060206,PQ. PIJIGUAOS,06,cenipa_data.cne_municipality_0602
+cenipa_data.cne_parish_060301,PQ. CATEDRAL,01,cenipa_data.cne_municipality_0603
+cenipa_data.cne_parish_060302,PQ. AGUA SALADA,02,cenipa_data.cne_municipality_0603
+cenipa_data.cne_parish_060303,PQ. LA SABANITA,03,cenipa_data.cne_municipality_0603
+cenipa_data.cne_parish_060304,PQ. VISTA HERMOSA,04,cenipa_data.cne_municipality_0603
+cenipa_data.cne_parish_060305,PQ. MARHUANTA,05,cenipa_data.cne_municipality_0603
+cenipa_data.cne_parish_060306,PQ. JOSE ANTONIO PAEZ,06,cenipa_data.cne_municipality_0603
+cenipa_data.cne_parish_060307,PQ. ORINOCO,07,cenipa_data.cne_municipality_0603
+cenipa_data.cne_parish_060308,PQ. PANAPANA,08,cenipa_data.cne_municipality_0603
+cenipa_data.cne_parish_060309,PQ. ZEA,09,cenipa_data.cne_municipality_0603
+cenipa_data.cne_parish_060401,CM. UPATA,01,cenipa_data.cne_municipality_0604
+cenipa_data.cne_parish_060402,PQ. ANDRES ELOY BLANCO,02,cenipa_data.cne_municipality_0604
+cenipa_data.cne_parish_060403,PQ. PEDRO COVA,03,cenipa_data.cne_municipality_0604
+cenipa_data.cne_parish_060501,CM. GUASIPATI,01,cenipa_data.cne_municipality_0605
+cenipa_data.cne_parish_060502,PQ. SALOM,02,cenipa_data.cne_municipality_0605
+cenipa_data.cne_parish_060601,CM. MARIPA,01,cenipa_data.cne_municipality_0606
+cenipa_data.cne_parish_060602,PQ. ARIPAO,02,cenipa_data.cne_municipality_0606
+cenipa_data.cne_parish_060603,PQ. LAS MAJADAS,03,cenipa_data.cne_municipality_0606
+cenipa_data.cne_parish_060604,PQ. MOITACO,04,cenipa_data.cne_municipality_0606
+cenipa_data.cne_parish_060605,PQ. GUARATARO,05,cenipa_data.cne_municipality_0606
+cenipa_data.cne_parish_060701,CM. TUMEREMO,01,cenipa_data.cne_municipality_0607
+cenipa_data.cne_parish_060702,PQ. DALLA COSTA,02,cenipa_data.cne_municipality_0607
+cenipa_data.cne_parish_060703,PQ. SAN ISIDRO,03,cenipa_data.cne_municipality_0607
+cenipa_data.cne_parish_060802,PQ. SAN FRANCISCO,02,cenipa_data.cne_municipality_0608
+cenipa_data.cne_parish_060803,PQ. BARCELONETA,03,cenipa_data.cne_municipality_0608
+cenipa_data.cne_parish_060804,PQ. SANTA BARBARA,04,cenipa_data.cne_municipality_0608
+cenipa_data.cne_parish_060901,CM. SANTA ELENA DE UAIREN,01,cenipa_data.cne_municipality_0609
+cenipa_data.cne_parish_060902,PQ. IKABARU,02,cenipa_data.cne_municipality_0609
+cenipa_data.cne_parish_061001,CM. EL CALLAO,01,cenipa_data.cne_municipality_0610
+cenipa_data.cne_parish_061101,CM. EL PALMAR,01,cenipa_data.cne_municipality_0611
+cenipa_data.cne_parish_070101,PQ. BEJUMA,01,cenipa_data.cne_municipality_0701
+cenipa_data.cne_parish_070102,PQ. CANOABO,02,cenipa_data.cne_municipality_0701
+cenipa_data.cne_parish_070103,PQ. SIMON BOLIVAR,03,cenipa_data.cne_municipality_0701
+cenipa_data.cne_parish_070201,PQ. GUIGUE,01,cenipa_data.cne_municipality_0702
+cenipa_data.cne_parish_070202,PQ. BELEN,02,cenipa_data.cne_municipality_0702
+cenipa_data.cne_parish_070203,PQ. TACARIGUA,03,cenipa_data.cne_municipality_0702
+cenipa_data.cne_parish_070301,PQ. MARIARA,01,cenipa_data.cne_municipality_0703
+cenipa_data.cne_parish_070302,PQ. AGUAS CALIENTES,02,cenipa_data.cne_municipality_0703
+cenipa_data.cne_parish_070401,PQ. GUACARA,01,cenipa_data.cne_municipality_0704
+cenipa_data.cne_parish_070402,PQ. CIUDAD ALIANZA,02,cenipa_data.cne_municipality_0704
+cenipa_data.cne_parish_070403,PQ. YAGUA,03,cenipa_data.cne_municipality_0704
+cenipa_data.cne_parish_070501,PQ. MONTALBAN,01,cenipa_data.cne_municipality_0705
+cenipa_data.cne_parish_070601,PQ. MORON,01,cenipa_data.cne_municipality_0706
+cenipa_data.cne_parish_070602,PQ. URAMA,02,cenipa_data.cne_municipality_0706
+cenipa_data.cne_parish_070701,PQ. DEMOCRACIA,01,cenipa_data.cne_municipality_0707
+cenipa_data.cne_parish_070702,PQ. FRATERNIDAD,02,cenipa_data.cne_municipality_0707
+cenipa_data.cne_parish_070703,PQ. GOAIGOAZA,03,cenipa_data.cne_municipality_0707
+cenipa_data.cne_parish_070704,PQ. JUAN JOSE FLORES,04,cenipa_data.cne_municipality_0707
+cenipa_data.cne_parish_070705,PQ. BARTOLOME SALOM,05,cenipa_data.cne_municipality_0707
+cenipa_data.cne_parish_070706,PQ. UNION,06,cenipa_data.cne_municipality_0707
+cenipa_data.cne_parish_070707,PQ. BORBURATA,07,cenipa_data.cne_municipality_0707
+cenipa_data.cne_parish_070708,PQ. PATANEMO,08,cenipa_data.cne_municipality_0707
+cenipa_data.cne_parish_070801,PQ. SAN JOAQUIN,01,cenipa_data.cne_municipality_0708
+cenipa_data.cne_parish_070901,PQ. CANDELARIA,01,cenipa_data.cne_municipality_0709
+cenipa_data.cne_parish_070902,PQ. CATEDRAL,02,cenipa_data.cne_municipality_0709
+cenipa_data.cne_parish_070903,PQ. EL SOCORRO,03,cenipa_data.cne_municipality_0709
+cenipa_data.cne_parish_070904,PQ. MIGUEL PEÑA,04,cenipa_data.cne_municipality_0709
+cenipa_data.cne_parish_070905,PQ. SAN BLAS,05,cenipa_data.cne_municipality_0709
+cenipa_data.cne_parish_070906,PQ. SAN JOSE,06,cenipa_data.cne_municipality_0709
+cenipa_data.cne_parish_070907,PQ. SANTA ROSA,07,cenipa_data.cne_municipality_0709
+cenipa_data.cne_parish_070908,PQ. RAFAEL URDANETA,08,cenipa_data.cne_municipality_0709
+cenipa_data.cne_parish_070909,PQ. NEGRO PRIMERO,09,cenipa_data.cne_municipality_0709
+cenipa_data.cne_parish_071001,PQ. MIRANDA,01,cenipa_data.cne_municipality_0710
+cenipa_data.cne_parish_071101,PQ. U LOS GUAYOS,01,cenipa_data.cne_municipality_0711
+cenipa_data.cne_parish_071201,PQ. NAGUANAGUA,01,cenipa_data.cne_municipality_0712
+cenipa_data.cne_parish_071301,PQ. URB SAN DIEGO,01,cenipa_data.cne_municipality_0713
+cenipa_data.cne_parish_071401,PQ. U TOCUYITO,01,cenipa_data.cne_municipality_0714
+cenipa_data.cne_parish_071402,PQ. U INDEPENDENCIA,02,cenipa_data.cne_municipality_0714
+cenipa_data.cne_parish_080101,PQ. COJEDES,01,cenipa_data.cne_municipality_0801
+cenipa_data.cne_parish_080102,PQ. JUAN DE MATA SUAREZ,02,cenipa_data.cne_municipality_0801
+cenipa_data.cne_parish_080201,PQ. TINAQUILLO,01,cenipa_data.cne_municipality_0802
+cenipa_data.cne_parish_080301,PQ. EL BAUL,01,cenipa_data.cne_municipality_0803
+cenipa_data.cne_parish_080302,PQ. SUCRE,02,cenipa_data.cne_municipality_0803
+cenipa_data.cne_parish_080401,PQ. EL PAO,01,cenipa_data.cne_municipality_0804
+cenipa_data.cne_parish_080501,PQ. LIBERTAD DE COJEDES,01,cenipa_data.cne_municipality_0805
+cenipa_data.cne_parish_080502,PQ. EL AMPARO,02,cenipa_data.cne_municipality_0805
+cenipa_data.cne_parish_080601,PQ. SAN CARLOS DE AUSTRIA,01,cenipa_data.cne_municipality_0806
+cenipa_data.cne_parish_080602,PQ. JUAN ANGEL BRAVO,02,cenipa_data.cne_municipality_0806
+cenipa_data.cne_parish_080603,PQ. MANUEL MANRIQUE,03,cenipa_data.cne_municipality_0806
+cenipa_data.cne_parish_080701,PQ. GRL/JEFE JOSE L SILVA,01,cenipa_data.cne_municipality_0807
+cenipa_data.cne_parish_080801,PQ. MACAPO,01,cenipa_data.cne_municipality_0808
+cenipa_data.cne_parish_080802,PQ. LA AGUADITA,02,cenipa_data.cne_municipality_0808
+cenipa_data.cne_parish_080901,PQ. ROMULO GALLEGOS,01,cenipa_data.cne_municipality_0809
+cenipa_data.cne_parish_090101,PQ. SAN JUAN DE LOS CAYOS,01,cenipa_data.cne_municipality_0901
+cenipa_data.cne_parish_090102,PQ. CAPADARE,02,cenipa_data.cne_municipality_0901
+cenipa_data.cne_parish_090103,PQ. LA PASTORA,03,cenipa_data.cne_municipality_0901
+cenipa_data.cne_parish_090104,PQ. LIBERTADOR,04,cenipa_data.cne_municipality_0901
+cenipa_data.cne_parish_090201,PQ. SAN LUIS,01,cenipa_data.cne_municipality_0902
+cenipa_data.cne_parish_090202,PQ. ARACUA,02,cenipa_data.cne_municipality_0902
+cenipa_data.cne_parish_090203,PQ. LA PEÑA,03,cenipa_data.cne_municipality_0902
+cenipa_data.cne_parish_090301,PQ. CAPATARIDA,01,cenipa_data.cne_municipality_0903
+cenipa_data.cne_parish_090302,PQ. BOROJO,02,cenipa_data.cne_municipality_0903
+cenipa_data.cne_parish_090303,PQ. SEQUE,03,cenipa_data.cne_municipality_0903
+cenipa_data.cne_parish_090304,PQ. ZAZARIDA,04,cenipa_data.cne_municipality_0903
+cenipa_data.cne_parish_090305,PQ. BARIRO,05,cenipa_data.cne_municipality_0903
+cenipa_data.cne_parish_090306,PQ. GUAJIRO,06,cenipa_data.cne_municipality_0903
+cenipa_data.cne_parish_090401,PQ. NORTE,01,cenipa_data.cne_municipality_0904
+cenipa_data.cne_parish_090402,PQ. CARIRUBANA,02,cenipa_data.cne_municipality_0904
+cenipa_data.cne_parish_090403,PQ. PUNTA CARDON,03,cenipa_data.cne_municipality_0904
+cenipa_data.cne_parish_090404,PQ. SANTA ANA,04,cenipa_data.cne_municipality_0904
+cenipa_data.cne_parish_090501,PQ. LA VELA DE CORO,01,cenipa_data.cne_municipality_0905
+cenipa_data.cne_parish_090502,PQ. ACURIGUA,02,cenipa_data.cne_municipality_0905
+cenipa_data.cne_parish_090503,PQ. GUAIBACOA,03,cenipa_data.cne_municipality_0905
+cenipa_data.cne_parish_090504,PQ. MACORUCA,04,cenipa_data.cne_municipality_0905
+cenipa_data.cne_parish_090505,PQ. LAS CALDERAS,05,cenipa_data.cne_municipality_0905
+cenipa_data.cne_parish_090601,PQ. PEDREGAL,01,cenipa_data.cne_municipality_0906
+cenipa_data.cne_parish_090602,PQ. AGUA CLARA,02,cenipa_data.cne_municipality_0906
+cenipa_data.cne_parish_090603,PQ. AVARIA,03,cenipa_data.cne_municipality_0906
+cenipa_data.cne_parish_090604,PQ. PIEDRA GRANDE,04,cenipa_data.cne_municipality_0906
+cenipa_data.cne_parish_090605,PQ. PURURECHE,05,cenipa_data.cne_municipality_0906
+cenipa_data.cne_parish_090701,PQ. PUEBLO NUEVO,01,cenipa_data.cne_municipality_0907
+cenipa_data.cne_parish_090702,PQ. ADICORA,02,cenipa_data.cne_municipality_0907
+cenipa_data.cne_parish_090703,PQ. BARAIVED,03,cenipa_data.cne_municipality_0907
+cenipa_data.cne_parish_090704,PQ. BUENA VISTA,04,cenipa_data.cne_municipality_0907
+cenipa_data.cne_parish_090705,PQ. JADACAQUIVA,05,cenipa_data.cne_municipality_0907
+cenipa_data.cne_parish_090706,PQ. MORUY,06,cenipa_data.cne_municipality_0907
+cenipa_data.cne_parish_090707,PQ. EL VINCULO,07,cenipa_data.cne_municipality_0907
+cenipa_data.cne_parish_090708,PQ. EL HATO,08,cenipa_data.cne_municipality_0907
+cenipa_data.cne_parish_090709,PQ. ADAURE,09,cenipa_data.cne_municipality_0907
+cenipa_data.cne_parish_090801,PQ. CHURUGUARA,01,cenipa_data.cne_municipality_0908
+cenipa_data.cne_parish_090802,PQ. AGUA LARGA,02,cenipa_data.cne_municipality_0908
+cenipa_data.cne_parish_090803,PQ. INDEPENDENCIA,03,cenipa_data.cne_municipality_0908
+cenipa_data.cne_parish_090804,PQ. MAPARARI,04,cenipa_data.cne_municipality_0908
+cenipa_data.cne_parish_090805,PQ. EL PAUJI,05,cenipa_data.cne_municipality_0908
+cenipa_data.cne_parish_090901,PQ. MENE DE MAUROA,01,cenipa_data.cne_municipality_0909
+cenipa_data.cne_parish_090902,PQ. CASIGUA,02,cenipa_data.cne_municipality_0909
+cenipa_data.cne_parish_090903,PQ. SAN FELIX,03,cenipa_data.cne_municipality_0909
+cenipa_data.cne_parish_091001,PQ. SAN ANTONIO,01,cenipa_data.cne_municipality_0910
+cenipa_data.cne_parish_091002,PQ. SAN GABRIEL,02,cenipa_data.cne_municipality_0910
+cenipa_data.cne_parish_091003,PQ. SANTA ANA,03,cenipa_data.cne_municipality_0910
+cenipa_data.cne_parish_091004,PQ. GUZMAN GUILLERMO,04,cenipa_data.cne_municipality_0910
+cenipa_data.cne_parish_091005,PQ. MITARE,05,cenipa_data.cne_municipality_0910
+cenipa_data.cne_parish_091006,PQ. SABANETA,06,cenipa_data.cne_municipality_0910
+cenipa_data.cne_parish_091007,PQ. RIO SECO,07,cenipa_data.cne_municipality_0910
+cenipa_data.cne_parish_091101,PQ. CABURE,01,cenipa_data.cne_municipality_0911
+cenipa_data.cne_parish_091102,PQ. CURIMAGUA,02,cenipa_data.cne_municipality_0911
+cenipa_data.cne_parish_091103,PQ. COLINA,03,cenipa_data.cne_municipality_0911
+cenipa_data.cne_parish_091201,PQ. TUCACAS,01,cenipa_data.cne_municipality_0912
+cenipa_data.cne_parish_091202,PQ. BOCA DE AROA,02,cenipa_data.cne_municipality_0912
+cenipa_data.cne_parish_091301,PQ. PUERTO CUMAREBO,01,cenipa_data.cne_municipality_0913
+cenipa_data.cne_parish_091302,PQ. LA CIENAGA,02,cenipa_data.cne_municipality_0913
+cenipa_data.cne_parish_091303,PQ. LA SOLEDAD,03,cenipa_data.cne_municipality_0913
+cenipa_data.cne_parish_091304,PQ. PUEBLO CUMAREBO,04,cenipa_data.cne_municipality_0913
+cenipa_data.cne_parish_091305,PQ. ZAZARIDA,05,cenipa_data.cne_municipality_0913
+cenipa_data.cne_parish_091401,CM. DABAJURO,01,cenipa_data.cne_municipality_0914
+cenipa_data.cne_parish_091501,PQ. CHICHIRIVICHE,01,cenipa_data.cne_municipality_0915
+cenipa_data.cne_parish_091502,PQ. BOCA DE TOCUYO,02,cenipa_data.cne_municipality_0915
+cenipa_data.cne_parish_091503,PQ. TOCUYO DE LA COSTA,03,cenipa_data.cne_municipality_0915
+cenipa_data.cne_parish_091601,PQ. LOS TAQUES,01,cenipa_data.cne_municipality_0916
+cenipa_data.cne_parish_091602,PQ. JUDIBANA,02,cenipa_data.cne_municipality_0916
+cenipa_data.cne_parish_091701,PQ. PIRITU,01,cenipa_data.cne_municipality_0917
+cenipa_data.cne_parish_091702,PQ. SAN JOSE DE LA COSTA,02,cenipa_data.cne_municipality_0917
+cenipa_data.cne_parish_091801,PQ. STA.CRUZ DE BUCARAL,01,cenipa_data.cne_municipality_0918
+cenipa_data.cne_parish_091802,PQ. EL CHARAL,02,cenipa_data.cne_municipality_0918
+cenipa_data.cne_parish_091803,PQ. LAS VEGAS DEL TUY,03,cenipa_data.cne_municipality_0918
+cenipa_data.cne_parish_091901,CM. MIRIMIRE,01,cenipa_data.cne_municipality_0919
+cenipa_data.cne_parish_092001,PQ. JACURA,01,cenipa_data.cne_municipality_0920
+cenipa_data.cne_parish_092002,PQ. AGUA LINDA,02,cenipa_data.cne_municipality_0920
+cenipa_data.cne_parish_092003,PQ. ARAURIMA,03,cenipa_data.cne_municipality_0920
+cenipa_data.cne_parish_092101,CM. YARACAL,01,cenipa_data.cne_municipality_0921
+cenipa_data.cne_parish_092201,CM. PALMASOLA,01,cenipa_data.cne_municipality_0922
+cenipa_data.cne_parish_092301,PQ. SUCRE,01,cenipa_data.cne_municipality_0923
+cenipa_data.cne_parish_092302,PQ. PECAYA,02,cenipa_data.cne_municipality_0923
+cenipa_data.cne_parish_092401,PQ. URUMACO,01,cenipa_data.cne_municipality_0924
+cenipa_data.cne_parish_092402,PQ. BRUZUAL,02,cenipa_data.cne_municipality_0924
+cenipa_data.cne_parish_092501,CM. TOCOPERO,01,cenipa_data.cne_municipality_0925
+cenipa_data.cne_parish_100101,PQ. VALLE DE LA PASCUA,01,cenipa_data.cne_municipality_1001
+cenipa_data.cne_parish_100102,PQ. ESPINO,02,cenipa_data.cne_municipality_1001
+cenipa_data.cne_parish_100201,PQ. EL SOMBRERO,01,cenipa_data.cne_municipality_1002
+cenipa_data.cne_parish_100202,PQ. SOSA,02,cenipa_data.cne_municipality_1002
+cenipa_data.cne_parish_100301,PQ. CALABOZO,01,cenipa_data.cne_municipality_1003
+cenipa_data.cne_parish_100302,PQ. EL CALVARIO,02,cenipa_data.cne_municipality_1003
+cenipa_data.cne_parish_100303,PQ. EL RASTRO,03,cenipa_data.cne_municipality_1003
+cenipa_data.cne_parish_100304,PQ. GUARDATINAJAS,04,cenipa_data.cne_municipality_1003
+cenipa_data.cne_parish_100401,PQ. ALTAGRACIA DE ORITUCO,01,cenipa_data.cne_municipality_1004
+cenipa_data.cne_parish_100402,PQ. LEZAMA,02,cenipa_data.cne_municipality_1004
+cenipa_data.cne_parish_100403,PQ. LIBERTAD DE ORITUCO,03,cenipa_data.cne_municipality_1004
+cenipa_data.cne_parish_100404,PQ. SAN FCO DE MACAIRA,04,cenipa_data.cne_municipality_1004
+cenipa_data.cne_parish_100405,PQ. SAN RAFAEL DE ORITUCO,05,cenipa_data.cne_municipality_1004
+cenipa_data.cne_parish_100406,PQ. SOUBLETTE,06,cenipa_data.cne_municipality_1004
+cenipa_data.cne_parish_100407,PQ. PASO REAL DE MACAIRA,07,cenipa_data.cne_municipality_1004
+cenipa_data.cne_parish_100501,PQ. TUCUPIDO,01,cenipa_data.cne_municipality_1005
+cenipa_data.cne_parish_100502,PQ. SAN RAFAEL DE LAYA,02,cenipa_data.cne_municipality_1005
+cenipa_data.cne_parish_100601,PQ.SAN JUAN DE LOS MORROS,01,cenipa_data.cne_municipality_1006
+cenipa_data.cne_parish_100602,PQ. PARAPARA,02,cenipa_data.cne_municipality_1006
+cenipa_data.cne_parish_100603,PQ. CANTAGALLO,03,cenipa_data.cne_municipality_1006
+cenipa_data.cne_parish_100701,PQ. ZARAZA,01,cenipa_data.cne_municipality_1007
+cenipa_data.cne_parish_100702,PQ. SAN JOSE DE UNARE,02,cenipa_data.cne_municipality_1007
+cenipa_data.cne_parish_100801,PQ. CAMAGUAN,01,cenipa_data.cne_municipality_1008
+cenipa_data.cne_parish_100802,PQ. PUERTO MIRANDA,02,cenipa_data.cne_municipality_1008
+cenipa_data.cne_parish_100803,PQ. UVERITO,03,cenipa_data.cne_municipality_1008
+cenipa_data.cne_parish_100901,PQ. SAN JOSE DE GUARIBE,01,cenipa_data.cne_municipality_1009
+cenipa_data.cne_parish_101001,PQ. LAS MERCEDES,01,cenipa_data.cne_municipality_1010
+cenipa_data.cne_parish_101002,PQ. STA RITA DE MANAPIRE,02,cenipa_data.cne_municipality_1010
+cenipa_data.cne_parish_101003,PQ. CABRUTA,03,cenipa_data.cne_municipality_1010
+cenipa_data.cne_parish_101101,PQ. EL SOCORRO,01,cenipa_data.cne_municipality_1011
+cenipa_data.cne_parish_101201,PQ. ORTIZ,01,cenipa_data.cne_municipality_1012
+cenipa_data.cne_parish_101202,PQ. SAN FCO. DE TIZNADOS,02,cenipa_data.cne_municipality_1012
+cenipa_data.cne_parish_101203,PQ. SAN JOSE DE TIZNADOS,03,cenipa_data.cne_municipality_1012
+cenipa_data.cne_parish_101204,PQ. S LORENZO DE TIZNADOS,04,cenipa_data.cne_municipality_1012
+cenipa_data.cne_parish_101301,PQ. SANTA MARIA DE IPIRE,01,cenipa_data.cne_municipality_1013
+cenipa_data.cne_parish_101302,PQ. ALTAMIRA,02,cenipa_data.cne_municipality_1013
+cenipa_data.cne_parish_101401,PQ. CHAGUARAMAS,01,cenipa_data.cne_municipality_1014
+cenipa_data.cne_parish_101501,PQ. GUAYABAL,01,cenipa_data.cne_municipality_1015
+cenipa_data.cne_parish_101502,PQ. CAZORLA,02,cenipa_data.cne_municipality_1015
+cenipa_data.cne_parish_110101,PQ. FREITEZ,01,cenipa_data.cne_municipality_1101
+cenipa_data.cne_parish_110102,PQ. JOSE MARIA BLANCO,02,cenipa_data.cne_municipality_1101
+cenipa_data.cne_parish_110201,PQ. CATEDRAL,01,cenipa_data.cne_municipality_1102
+cenipa_data.cne_parish_110202,PQ. LA CONCEPCION,02,cenipa_data.cne_municipality_1102
+cenipa_data.cne_parish_110203,PQ. SANTA ROSA,03,cenipa_data.cne_municipality_1102
+cenipa_data.cne_parish_110204,PQ. UNION,04,cenipa_data.cne_municipality_1102
+cenipa_data.cne_parish_110205,PQ. EL CUJI,05,cenipa_data.cne_municipality_1102
+cenipa_data.cne_parish_110206,PQ. TAMACA,06,cenipa_data.cne_municipality_1102
+cenipa_data.cne_parish_110207,PQ. GUERRERA ANA SOTO,07,cenipa_data.cne_municipality_1102
+cenipa_data.cne_parish_110208,PQ. AGUEDO F. ALVARADO,08,cenipa_data.cne_municipality_1102
+cenipa_data.cne_parish_110209,PQ. BUENA VISTA,09,cenipa_data.cne_municipality_1102
+cenipa_data.cne_parish_110210,PQ. JUAREZ,10,cenipa_data.cne_municipality_1102
+cenipa_data.cne_parish_110301,PQ. JUAN B RODRIGUEZ,01,cenipa_data.cne_municipality_1103
+cenipa_data.cne_parish_110302,PQ. DIEGO DE LOZADA,02,cenipa_data.cne_municipality_1103
+cenipa_data.cne_parish_110303,PQ. SAN MIGUEL,03,cenipa_data.cne_municipality_1103
+cenipa_data.cne_parish_110304,PQ. CUARA,04,cenipa_data.cne_municipality_1103
+cenipa_data.cne_parish_110305,PQ. PARAISO DE SAN JOSE,05,cenipa_data.cne_municipality_1103
+cenipa_data.cne_parish_110306,PQ. TINTORERO,06,cenipa_data.cne_municipality_1103
+cenipa_data.cne_parish_110307,PQ. JOSE BERNARDO DORANTE,07,cenipa_data.cne_municipality_1103
+cenipa_data.cne_parish_110308,PQ. CRNEL. MARIANO PERAZA,08,cenipa_data.cne_municipality_1103
+cenipa_data.cne_parish_110401,PQ. BOLIVAR,01,cenipa_data.cne_municipality_1104
+cenipa_data.cne_parish_110402,PQ. ANZOATEGUI,02,cenipa_data.cne_municipality_1104
+cenipa_data.cne_parish_110403,PQ. GUARICO,03,cenipa_data.cne_municipality_1104
+cenipa_data.cne_parish_110404,PQ. HUMOCARO ALTO,04,cenipa_data.cne_municipality_1104
+cenipa_data.cne_parish_110405,PQ. HUMOCARO BAJO,05,cenipa_data.cne_municipality_1104
+cenipa_data.cne_parish_110406,PQ. MORAN,06,cenipa_data.cne_municipality_1104
+cenipa_data.cne_parish_110407,PQ. HILARIO LUNA Y LUNA,07,cenipa_data.cne_municipality_1104
+cenipa_data.cne_parish_110408,PQ. LA CANDELARIA,08,cenipa_data.cne_municipality_1104
+cenipa_data.cne_parish_110501,PQ. CABUDARE,01,cenipa_data.cne_municipality_1105
+cenipa_data.cne_parish_110502,PQ. JOSE G. BASTIDAS,02,cenipa_data.cne_municipality_1105
+cenipa_data.cne_parish_110503,PQ. AGUA VIVA,03,cenipa_data.cne_municipality_1105
+cenipa_data.cne_parish_110601,PQ. TRINIDAD SAMUEL,01,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110602,PQ. ANTONIO DIAZ,02,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110603,PQ. CAMACARO,03,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110604,PQ. CASTAÑEDA,04,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110605,PQ. CHIQUINQUIRA,05,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110606,PQ. ESPINOZA LOS MONTEROS,06,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110607,PQ. LARA,07,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110608,PQ. MANUEL MORILLO,08,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110609,PQ. MONTES DE OCA,09,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110610,PQ. TORRES,10,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110611,PQ. EL BLANCO,11,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110612,PQ. MONTA¿A VERDE,12,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110613,PQ. HERIBERTO ARROYO,13,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110614,PQ. LAS MERCEDES,14,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110615,PQ. CECILIO ZUBILLAGA,15,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110616,PQ. REYES VARGAS,16,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110617,PQ. ALTAGRACIA,17,cenipa_data.cne_municipality_1106
+cenipa_data.cne_parish_110701,PQ. SIQUISIQUE,01,cenipa_data.cne_municipality_1107
+cenipa_data.cne_parish_110702,PQ. SAN MIGUEL,02,cenipa_data.cne_municipality_1107
+cenipa_data.cne_parish_110703,PQ. XAGUAS,03,cenipa_data.cne_municipality_1107
+cenipa_data.cne_parish_110704,PQ. MOROTURO,04,cenipa_data.cne_municipality_1107
+cenipa_data.cne_parish_110801,PQ. PIO TAMAYO,01,cenipa_data.cne_municipality_1108
+cenipa_data.cne_parish_110802,PQ. YACAMBU,02,cenipa_data.cne_municipality_1108
+cenipa_data.cne_parish_110803,PQ. QBDA. HONDA DE GUACHE,03,cenipa_data.cne_municipality_1108
+cenipa_data.cne_parish_110901,PQ. SARARE,01,cenipa_data.cne_municipality_1109
+cenipa_data.cne_parish_110902,PQ. GUSTAVO VEGAS LEON,02,cenipa_data.cne_municipality_1109
+cenipa_data.cne_parish_110903,PQ. BURIA,03,cenipa_data.cne_municipality_1109
+cenipa_data.cne_parish_120101,PQ. GABRIEL PICON G.,01,cenipa_data.cne_municipality_1201
+cenipa_data.cne_parish_120102,PQ. HECTOR AMABLE MORA,02,cenipa_data.cne_municipality_1201
+cenipa_data.cne_parish_120103,PQ. JOSE NUCETE SARDI,03,cenipa_data.cne_municipality_1201
+cenipa_data.cne_parish_120104,PQ. PULIDO MENDEZ,04,cenipa_data.cne_municipality_1201
+cenipa_data.cne_parish_120105,PQ. PTE. ROMULO GALLEGOS,05,cenipa_data.cne_municipality_1201
+cenipa_data.cne_parish_120106,PQ. PRESIDENTE BETANCOURT,06,cenipa_data.cne_municipality_1201
+cenipa_data.cne_parish_120107,PQ. PRESIDENTE PAEZ,07,cenipa_data.cne_municipality_1201
+cenipa_data.cne_parish_120201,CM. LA AZULITA,01,cenipa_data.cne_municipality_1202
+cenipa_data.cne_parish_120301,CM. CANAGUA,01,cenipa_data.cne_municipality_1203
+cenipa_data.cne_parish_120302,PQ. CAPURI,02,cenipa_data.cne_municipality_1203
+cenipa_data.cne_parish_120303,PQ. CHACANTA,03,cenipa_data.cne_municipality_1203
+cenipa_data.cne_parish_120304,PQ. EL MOLINO,04,cenipa_data.cne_municipality_1203
+cenipa_data.cne_parish_120305,PQ. GUAIMARAL,05,cenipa_data.cne_municipality_1203
+cenipa_data.cne_parish_120306,PQ. MUCUTUY,06,cenipa_data.cne_municipality_1203
+cenipa_data.cne_parish_120307,PQ. MUCUCHACHI,07,cenipa_data.cne_municipality_1203
+cenipa_data.cne_parish_120401,PQ. ACEQUIAS,01,cenipa_data.cne_municipality_1204
+cenipa_data.cne_parish_120402,PQ. JAJI,02,cenipa_data.cne_municipality_1204
+cenipa_data.cne_parish_120403,PQ. LA MESA,03,cenipa_data.cne_municipality_1204
+cenipa_data.cne_parish_120404,PQ. SAN JOSE,04,cenipa_data.cne_municipality_1204
+cenipa_data.cne_parish_120405,PQ. MONTALBAN,05,cenipa_data.cne_municipality_1204
+cenipa_data.cne_parish_120406,PQ. MATRIZ,06,cenipa_data.cne_municipality_1204
+cenipa_data.cne_parish_120407,PQ. FERNANDEZ PEÑA,07,cenipa_data.cne_municipality_1204
+cenipa_data.cne_parish_120501,CM. GUARAQUE,01,cenipa_data.cne_municipality_1205
+cenipa_data.cne_parish_120502,PQ. MESA DE QUINTERO,02,cenipa_data.cne_municipality_1205
+cenipa_data.cne_parish_120503,PQ. RIO NEGRO,03,cenipa_data.cne_municipality_1205
+cenipa_data.cne_parish_120601,CM. ARAPUEY,01,cenipa_data.cne_municipality_1206
+cenipa_data.cne_parish_120602,PQ. PALMIRA,02,cenipa_data.cne_municipality_1206
+cenipa_data.cne_parish_120701,CM. TORONDOY,01,cenipa_data.cne_municipality_1207
+cenipa_data.cne_parish_120702,PQ. SAN CRISTOBAL DE T,02,cenipa_data.cne_municipality_1207
+cenipa_data.cne_parish_120801,PQ. ARIAS,01,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120802,PQ. SAGRARIO,02,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120803,PQ. MILLA,03,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120804,PQ. EL LLANO,04,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120805,PQ. JUAN RODRIGUEZ SUAREZ,05,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120806,PQ. JACINTO PLAZA,06,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120807,PQ. DOMINGO PEÑA,07,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120808,PQ. GONZALO PICON FEBRES,08,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120809,PQ. OSUNA RODRIGUEZ,09,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120810,PQ. LASSO DE LA VEGA,10,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120811,PQ. CARACCIOLO PARRA P,11,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120812,PQ. MARIANO PICON SALAS,12,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120813,PQ. ANTONIO SPINETTI DINI,13,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120814,PQ. EL MORRO,14,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120815,PQ. LOS NEVADOS,15,cenipa_data.cne_municipality_1208
+cenipa_data.cne_parish_120901,CM. TABAY,01,cenipa_data.cne_municipality_1209
+cenipa_data.cne_parish_121001,CM. TIMOTES,01,cenipa_data.cne_municipality_1210
+cenipa_data.cne_parish_121002,PQ. ANDRES ELOY BLANCO,02,cenipa_data.cne_municipality_1210
+cenipa_data.cne_parish_121003,PQ. PIÑANGO,03,cenipa_data.cne_municipality_1210
+cenipa_data.cne_parish_121004,PQ. LA VENTA,04,cenipa_data.cne_municipality_1210
+cenipa_data.cne_parish_121101,CM. STA CRUZ DE MORA,01,cenipa_data.cne_municipality_1211
+cenipa_data.cne_parish_121102,PQ. MESA BOLIVAR,02,cenipa_data.cne_municipality_1211
+cenipa_data.cne_parish_121103,PQ. MESA DE LAS PALMAS,03,cenipa_data.cne_municipality_1211
+cenipa_data.cne_parish_121201,CM. STA ELENA DE ARENALES,01,cenipa_data.cne_municipality_1212
+cenipa_data.cne_parish_121202,PQ. ELOY PAREDES,02,cenipa_data.cne_municipality_1212
+cenipa_data.cne_parish_121203,PQ. SAN RAFAEL DE A.,03,cenipa_data.cne_municipality_1212
+cenipa_data.cne_parish_121301,CM. TUCANI,01,cenipa_data.cne_municipality_1213
+cenipa_data.cne_parish_121302,PQ. FLORENCIO RAMIREZ,02,cenipa_data.cne_municipality_1213
+cenipa_data.cne_parish_121401,CM. SANTO DOMINGO,01,cenipa_data.cne_municipality_1214
+cenipa_data.cne_parish_121402,PQ. LAS PIEDRAS,02,cenipa_data.cne_municipality_1214
+cenipa_data.cne_parish_121501,CM. PUEBLO LLANO,01,cenipa_data.cne_municipality_1215
+cenipa_data.cne_parish_121601,CM. MUCUCHIES,01,cenipa_data.cne_municipality_1216
+cenipa_data.cne_parish_121602,PQ. MUCURUBA,02,cenipa_data.cne_municipality_1216
+cenipa_data.cne_parish_121603,PQ. SAN RAFAEL,03,cenipa_data.cne_municipality_1216
+cenipa_data.cne_parish_121604,PQ. CACUTE,04,cenipa_data.cne_municipality_1216
+cenipa_data.cne_parish_121605,PQ. LA TOMA,05,cenipa_data.cne_municipality_1216
+cenipa_data.cne_parish_121701,CM. BAILADORES,01,cenipa_data.cne_municipality_1217
+cenipa_data.cne_parish_121702,PQ. GERONIMO MALDONADO,02,cenipa_data.cne_municipality_1217
+cenipa_data.cne_parish_121801,CM. LAGUNILLAS,01,cenipa_data.cne_municipality_1218
+cenipa_data.cne_parish_121802,PQ. CHIGUARA,02,cenipa_data.cne_municipality_1218
+cenipa_data.cne_parish_121803,PQ. ESTANQUES,03,cenipa_data.cne_municipality_1218
+cenipa_data.cne_parish_121804,PQ. SAN JUAN,04,cenipa_data.cne_municipality_1218
+cenipa_data.cne_parish_121805,PQ. PUEBLO NUEVO DEL SUR,05,cenipa_data.cne_municipality_1218
+cenipa_data.cne_parish_121806,PQ. LA TRAMPA,06,cenipa_data.cne_municipality_1218
+cenipa_data.cne_parish_121901,PQ. EL LLANO,01,cenipa_data.cne_municipality_1219
+cenipa_data.cne_parish_121902,PQ. TOVAR,02,cenipa_data.cne_municipality_1219
+cenipa_data.cne_parish_121903,PQ. EL AMPARO,03,cenipa_data.cne_municipality_1219
+cenipa_data.cne_parish_121904,PQ. SAN FRANCISCO,04,cenipa_data.cne_municipality_1219
+cenipa_data.cne_parish_122001,CM. NUEVA BOLIVIA,01,cenipa_data.cne_municipality_1220
+cenipa_data.cne_parish_122002,PQ. INDEPENDENCIA,02,cenipa_data.cne_municipality_1220
+cenipa_data.cne_parish_122003,PQ. MARIA C PALACIOS,03,cenipa_data.cne_municipality_1220
+cenipa_data.cne_parish_122004,PQ. SANTA APOLONIA,04,cenipa_data.cne_municipality_1220
+cenipa_data.cne_parish_122101,CM. STA MARIA DE CAPARO,01,cenipa_data.cne_municipality_1221
+cenipa_data.cne_parish_122201,CM. ARICAGUA,01,cenipa_data.cne_municipality_1222
+cenipa_data.cne_parish_122202,PQ. SAN ANTONIO,02,cenipa_data.cne_municipality_1222
+cenipa_data.cne_parish_122301,CM. ZEA,01,cenipa_data.cne_municipality_1223
+cenipa_data.cne_parish_122302,PQ. CAÑO EL TIGRE,02,cenipa_data.cne_municipality_1223
+cenipa_data.cne_parish_130101,PQ. CAUCAGUA,01,cenipa_data.cne_municipality_1301
+cenipa_data.cne_parish_130102,PQ. ARAGUITA,02,cenipa_data.cne_municipality_1301
+cenipa_data.cne_parish_130103,PQ. AREVALO GONZALEZ,03,cenipa_data.cne_municipality_1301
+cenipa_data.cne_parish_130104,PQ. CAPAYA,04,cenipa_data.cne_municipality_1301
+cenipa_data.cne_parish_130105,PQ. PANAQUIRE,05,cenipa_data.cne_municipality_1301
+cenipa_data.cne_parish_130106,PQ. RIBAS,06,cenipa_data.cne_municipality_1301
+cenipa_data.cne_parish_130107,PQ. EL CAFE,07,cenipa_data.cne_municipality_1301
+cenipa_data.cne_parish_130108,PQ. MARIZAPA,08,cenipa_data.cne_municipality_1301
+cenipa_data.cne_parish_130201,PQ. HIGUEROTE,01,cenipa_data.cne_municipality_1302
+cenipa_data.cne_parish_130202,PQ. CURIEPE,02,cenipa_data.cne_municipality_1302
+cenipa_data.cne_parish_130203,PQ. TACARIGUA,03,cenipa_data.cne_municipality_1302
+cenipa_data.cne_parish_130301,PQ. LOS TEQUES,01,cenipa_data.cne_municipality_1303
+cenipa_data.cne_parish_130302,PQ. CECILIO ACOSTA,02,cenipa_data.cne_municipality_1303
+cenipa_data.cne_parish_130303,PQ. PARACOTOS,03,cenipa_data.cne_municipality_1303
+cenipa_data.cne_parish_130304,PQ. SAN PEDRO,04,cenipa_data.cne_municipality_1303
+cenipa_data.cne_parish_130305,PQ. TACATA,05,cenipa_data.cne_municipality_1303
+cenipa_data.cne_parish_130306,PQ. EL JARILLO,06,cenipa_data.cne_municipality_1303
+cenipa_data.cne_parish_130307,PQ. ALTAGRACIA DE LA M,07,cenipa_data.cne_municipality_1303
+cenipa_data.cne_parish_130401,PQ. STA TERESA DEL TUY,01,cenipa_data.cne_municipality_1304
+cenipa_data.cne_parish_130402,PQ. EL CARTANAL,02,cenipa_data.cne_municipality_1304
+cenipa_data.cne_parish_130501,PQ. OCUMARE DEL TUY,01,cenipa_data.cne_municipality_1305
+cenipa_data.cne_parish_130502,PQ. LA DEMOCRACIA,02,cenipa_data.cne_municipality_1305
+cenipa_data.cne_parish_130503,PQ. SANTA BARBARA,03,cenipa_data.cne_municipality_1305
+cenipa_data.cne_parish_130601,PQ. RIO CHICO,01,cenipa_data.cne_municipality_1306
+cenipa_data.cne_parish_130602,PQ. EL GUAPO,02,cenipa_data.cne_municipality_1306
+cenipa_data.cne_parish_130603,PQ.TACARIGUA DE LA LAGUNA,03,cenipa_data.cne_municipality_1306
+cenipa_data.cne_parish_130604,PQ. PAPARO,04,cenipa_data.cne_municipality_1306
+cenipa_data.cne_parish_130605,PQ. SN FERNANDO DEL GUAPO,05,cenipa_data.cne_municipality_1306
+cenipa_data.cne_parish_130701,PQ. SANTA LUCIA,01,cenipa_data.cne_municipality_1307
+cenipa_data.cne_parish_130801,PQ. GUARENAS,01,cenipa_data.cne_municipality_1308
+cenipa_data.cne_parish_130901,PQ. PETARE,01,cenipa_data.cne_municipality_1309
+cenipa_data.cne_parish_130902,PQ. LEONCIO MARTINEZ,02,cenipa_data.cne_municipality_1309
+cenipa_data.cne_parish_130903,PQ. CAUCAGUITA,03,cenipa_data.cne_municipality_1309
+cenipa_data.cne_parish_130904,PQ. FILAS DE MARICHE,04,cenipa_data.cne_municipality_1309
+cenipa_data.cne_parish_130905,PQ. LA DOLORITA,05,cenipa_data.cne_municipality_1309
+cenipa_data.cne_parish_131001,PQ. CUA,01,cenipa_data.cne_municipality_1310
+cenipa_data.cne_parish_131002,PQ. NUEVA CUA,02,cenipa_data.cne_municipality_1310
+cenipa_data.cne_parish_131101,PQ. GUATIRE,01,cenipa_data.cne_municipality_1311
+cenipa_data.cne_parish_131102,PQ. BOLIVAR,02,cenipa_data.cne_municipality_1311
+cenipa_data.cne_parish_131201,PQ. CHARALLAVE,01,cenipa_data.cne_municipality_1312
+cenipa_data.cne_parish_131202,PQ. LAS BRISAS,02,cenipa_data.cne_municipality_1312
+cenipa_data.cne_parish_131301,PQ. SAN ANTONIO LOS ALTOS,01,cenipa_data.cne_municipality_1313
+cenipa_data.cne_parish_131401,PQ.SAN JOSE DE BARLOVENTO,01,cenipa_data.cne_municipality_1314
+cenipa_data.cne_parish_131402,PQ. CUMBO,02,cenipa_data.cne_municipality_1314
+cenipa_data.cne_parish_131501,PQ. SAN FCO DE YARE,01,cenipa_data.cne_municipality_1315
+cenipa_data.cne_parish_131502,PQ. S ANTONIO DE YARE,02,cenipa_data.cne_municipality_1315
+cenipa_data.cne_parish_131601,PQ. BARUTA,01,cenipa_data.cne_municipality_1316
+cenipa_data.cne_parish_131602,PQ. EL CAFETAL,02,cenipa_data.cne_municipality_1316
+cenipa_data.cne_parish_131603,PQ. LAS MINAS DE BARUTA,03,cenipa_data.cne_municipality_1316
+cenipa_data.cne_parish_131701,PQ. CARRIZAL,01,cenipa_data.cne_municipality_1317
+cenipa_data.cne_parish_131801,PQ. CHACAO,01,cenipa_data.cne_municipality_1318
+cenipa_data.cne_parish_131901,PQ. EL HATILLO,01,cenipa_data.cne_municipality_1319
+cenipa_data.cne_parish_132001,PQ. MAMPORAL,01,cenipa_data.cne_municipality_1320
+cenipa_data.cne_parish_132101,PQ. CUPIRA,01,cenipa_data.cne_municipality_1321
+cenipa_data.cne_parish_132102,PQ. MACHURUCUTO,02,cenipa_data.cne_municipality_1321
+cenipa_data.cne_parish_140101,CM. SAN ANTONIO,01,cenipa_data.cne_municipality_1401
+cenipa_data.cne_parish_140102,PQ. SAN FRANCISCO,02,cenipa_data.cne_municipality_1401
+cenipa_data.cne_parish_140201,CM. CARIPITO,01,cenipa_data.cne_municipality_1402
+cenipa_data.cne_parish_140301,CM. CARIPE,01,cenipa_data.cne_municipality_1403
+cenipa_data.cne_parish_140302,PQ. TERESEN,02,cenipa_data.cne_municipality_1403
+cenipa_data.cne_parish_140303,PQ. EL GUACHARO,03,cenipa_data.cne_municipality_1403
+cenipa_data.cne_parish_140304,PQ. SAN AGUSTIN,04,cenipa_data.cne_municipality_1403
+cenipa_data.cne_parish_140305,PQ. LA GUANOTA,05,cenipa_data.cne_municipality_1403
+cenipa_data.cne_parish_140306,PQ. SABANA DE PIEDRA,06,cenipa_data.cne_municipality_1403
+cenipa_data.cne_parish_140401,CM. CAICARA,01,cenipa_data.cne_municipality_1404
+cenipa_data.cne_parish_140402,PQ. AREO,02,cenipa_data.cne_municipality_1404
+cenipa_data.cne_parish_140403,PQ. SAN FELIX,03,cenipa_data.cne_municipality_1404
+cenipa_data.cne_parish_140404,PQ. VIENTO FRESCO,04,cenipa_data.cne_municipality_1404
+cenipa_data.cne_parish_140501,CM. PUNTA DE MATA,01,cenipa_data.cne_municipality_1405
+cenipa_data.cne_parish_140502,PQ. EL TEJERO,02,cenipa_data.cne_municipality_1405
+cenipa_data.cne_parish_140601,CM. TEMBLADOR,01,cenipa_data.cne_municipality_1406
+cenipa_data.cne_parish_140602,PQ. TABASCA,02,cenipa_data.cne_municipality_1406
+cenipa_data.cne_parish_140603,PQ. LAS ALHUACAS,03,cenipa_data.cne_municipality_1406
+cenipa_data.cne_parish_140604,PQ. CHAGUARAMAS,04,cenipa_data.cne_municipality_1406
+cenipa_data.cne_parish_140701,PQ. EL FURRIAL,01,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_140702,PQ. JUSEPIN,02,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_140703,PQ. EL COROZO,03,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_140704,PQ. SAN VICENTE,04,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_140705,PQ. LA PICA,05,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_140706,PQ. ALTOS DE LOS GODOS,06,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_140707,PQ. BOQUERON,07,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_140708,PQ. LAS COCUIZAS,08,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_140709,PQ. SANTA CRUZ,09,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_140710,PQ. SAN SIMON,10,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_140801,CM. ARAGUA,01,cenipa_data.cne_municipality_1408
+cenipa_data.cne_parish_140802,PQ. CHAGUARAMAL,02,cenipa_data.cne_municipality_1408
+cenipa_data.cne_parish_140803,PQ. GUANAGUANA,03,cenipa_data.cne_municipality_1408
+cenipa_data.cne_parish_140804,PQ. APARICIO,04,cenipa_data.cne_municipality_1408
+cenipa_data.cne_parish_140805,PQ. TAGUAYA,05,cenipa_data.cne_municipality_1408
+cenipa_data.cne_parish_140806,PQ. EL PINTO,06,cenipa_data.cne_municipality_1408
+cenipa_data.cne_parish_140807,PQ. LA TOSCANA,07,cenipa_data.cne_municipality_1408
+cenipa_data.cne_parish_140901,CM. QUIRIQUIRE,01,cenipa_data.cne_municipality_1409
+cenipa_data.cne_parish_140902,PQ. CACHIPO,02,cenipa_data.cne_municipality_1409
+cenipa_data.cne_parish_141001,CM. BARRANCAS,01,cenipa_data.cne_municipality_1410
+cenipa_data.cne_parish_141002,LOS BARRANCOS DE FAJARDO,02,cenipa_data.cne_municipality_1410
+cenipa_data.cne_parish_141101,CM. AGUASAY,01,cenipa_data.cne_municipality_1411
+cenipa_data.cne_parish_141201,CM. SANTA BARBARA,01,cenipa_data.cne_municipality_1412
+cenipa_data.cne_parish_141301,CM. URACOA,01,cenipa_data.cne_municipality_1413
+cenipa_data.cne_parish_150101,CM. LA ASUNCION,01,cenipa_data.cne_municipality_1501
+cenipa_data.cne_parish_150201,CM. SAN JUAN BAUTISTA,01,cenipa_data.cne_municipality_1502
+cenipa_data.cne_parish_150202,PQ. ZABALA,02,cenipa_data.cne_municipality_1502
+cenipa_data.cne_parish_150301,CM. SANTA ANA,01,cenipa_data.cne_municipality_1503
+cenipa_data.cne_parish_150302,PQ. GUEVARA,02,cenipa_data.cne_municipality_1503
+cenipa_data.cne_parish_150303,PQ. MATASIETE,03,cenipa_data.cne_municipality_1503
+cenipa_data.cne_parish_150304,PQ. BOLIVAR,04,cenipa_data.cne_municipality_1503
+cenipa_data.cne_parish_150305,PQ. SUCRE,05,cenipa_data.cne_municipality_1503
+cenipa_data.cne_parish_150401,CM. PAMPATAR,01,cenipa_data.cne_municipality_1504
+cenipa_data.cne_parish_150402,PQ. AGUIRRE,02,cenipa_data.cne_municipality_1504
+cenipa_data.cne_parish_150501,CM. JUAN GRIEGO,01,cenipa_data.cne_municipality_1505
+cenipa_data.cne_parish_150502,PQ. ADRIAN,02,cenipa_data.cne_municipality_1505
+cenipa_data.cne_parish_150601,CM. PORLAMAR,01,cenipa_data.cne_municipality_1506
+cenipa_data.cne_parish_150701,CM. BOCA DEL RIO,01,cenipa_data.cne_municipality_1507
+cenipa_data.cne_parish_150702,PQ. SAN FRANCISCO,02,cenipa_data.cne_municipality_1507
+cenipa_data.cne_parish_150801,CM. SAN PEDRO DE COCHE,01,cenipa_data.cne_municipality_1508
+cenipa_data.cne_parish_150802,PQ. VICENTE FUENTES,02,cenipa_data.cne_municipality_1508
+cenipa_data.cne_parish_150901,CM. PUNTA DE PIEDRAS,01,cenipa_data.cne_municipality_1509
+cenipa_data.cne_parish_150902,PQ. LOS BARALES,02,cenipa_data.cne_municipality_1509
+cenipa_data.cne_parish_151001,CM.LA PLAZA DE PARAGUACHI,01,cenipa_data.cne_municipality_1510
+cenipa_data.cne_parish_151101,CM. VALLE ESP SANTO,01,cenipa_data.cne_municipality_1511
+cenipa_data.cne_parish_151102,PQ. FRANCISCO FAJARDO,02,cenipa_data.cne_municipality_1511
+cenipa_data.cne_parish_160101,CM. ARAURE,01,cenipa_data.cne_municipality_1601
+cenipa_data.cne_parish_160102,PQ. RIO ACARIGUA,02,cenipa_data.cne_municipality_1601
+cenipa_data.cne_parish_160201,CM. PIRITU,01,cenipa_data.cne_municipality_1602
+cenipa_data.cne_parish_160202,PQ. UVERAL,02,cenipa_data.cne_municipality_1602
+cenipa_data.cne_parish_160301,CM. GUANARE,01,cenipa_data.cne_municipality_1603
+cenipa_data.cne_parish_160302,PQ. CORDOBA,02,cenipa_data.cne_municipality_1603
+cenipa_data.cne_parish_160303,PQ.SAN JUAN GUANAGUANARE,03,cenipa_data.cne_municipality_1603
+cenipa_data.cne_parish_160304,PQ. VIRGEN DE LA COROMOTO,04,cenipa_data.cne_municipality_1603
+cenipa_data.cne_parish_160305,PQ.SAN JOSE DE LA MONTAÑA,05,cenipa_data.cne_municipality_1603
+cenipa_data.cne_parish_160401,CM. GUANARITO,01,cenipa_data.cne_municipality_1604
+cenipa_data.cne_parish_160402,PQ.TRINIDAD DE LA CAPILLA,02,cenipa_data.cne_municipality_1604
+cenipa_data.cne_parish_160403,PQ. DIVINA PASTORA,03,cenipa_data.cne_municipality_1604
+cenipa_data.cne_parish_160501,CM. OSPINO,01,cenipa_data.cne_municipality_1605
+cenipa_data.cne_parish_160502,PQ. LA APARICION,02,cenipa_data.cne_municipality_1605
+cenipa_data.cne_parish_160503,PQ. LA ESTACION,03,cenipa_data.cne_municipality_1605
+cenipa_data.cne_parish_160601,CM. ACARIGUA,01,cenipa_data.cne_municipality_1606
+cenipa_data.cne_parish_160602,PQ. PAYARA,02,cenipa_data.cne_municipality_1606
+cenipa_data.cne_parish_160603,PQ. PIMPINELA,03,cenipa_data.cne_municipality_1606
+cenipa_data.cne_parish_160604,PQ. RAMON PERAZA,04,cenipa_data.cne_municipality_1606
+cenipa_data.cne_parish_160701,CM. BISCUCUY,01,cenipa_data.cne_municipality_1607
+cenipa_data.cne_parish_160702,PQ. CONCEPCION,02,cenipa_data.cne_municipality_1607
+cenipa_data.cne_parish_160703,PQ.SAN RAFAEL PALO ALZADO,03,cenipa_data.cne_municipality_1607
+cenipa_data.cne_parish_160704,PQ. UVENCIO A VELASQUEZ,04,cenipa_data.cne_municipality_1607
+cenipa_data.cne_parish_160705,PQ. SAN JOSE DE SAGUAZ,05,cenipa_data.cne_municipality_1607
+cenipa_data.cne_parish_160706,PQ. VILLA ROSA,06,cenipa_data.cne_municipality_1607
+cenipa_data.cne_parish_160801,CM. VILLA BRUZUAL,01,cenipa_data.cne_municipality_1608
+cenipa_data.cne_parish_160802,PQ. CANELONES,02,cenipa_data.cne_municipality_1608
+cenipa_data.cne_parish_160803,PQ. SANTA CRUZ,03,cenipa_data.cne_municipality_1608
+cenipa_data.cne_parish_160804,PQ. SAN ISIDRO LABRADOR,04,cenipa_data.cne_municipality_1608
+cenipa_data.cne_parish_160901,CM. CHABASQUEN,01,cenipa_data.cne_municipality_1609
+cenipa_data.cne_parish_160902,PQ. PEÑA BLANCA,02,cenipa_data.cne_municipality_1609
+cenipa_data.cne_parish_161001,CM. AGUA BLANCA,01,cenipa_data.cne_municipality_1610
+cenipa_data.cne_parish_161101,CM. PAPELON,01,cenipa_data.cne_municipality_1611
+cenipa_data.cne_parish_161102,PQ. CAÑO DELGADITO,02,cenipa_data.cne_municipality_1611
+cenipa_data.cne_parish_161201,CM. BOCONOITO,01,cenipa_data.cne_municipality_1612
+cenipa_data.cne_parish_161202,PQ. ANTOLIN TOVAR AQUINO,02,cenipa_data.cne_municipality_1612
+cenipa_data.cne_parish_161301,CM. SAN RAFAEL DE ONOTO,01,cenipa_data.cne_municipality_1613
+cenipa_data.cne_parish_161302,PQ. SANTA FE,02,cenipa_data.cne_municipality_1613
+cenipa_data.cne_parish_060801,CM. CIUDAD PIAR,01,cenipa_data.cne_municipality_0608
+cenipa_data.cne_parish_021302,CM. PUERTO LA CRUZ,02,cenipa_data.cne_municipality_0213
+cenipa_data.cne_parish_050805,PQ. SIMON BOLIVAR,05,cenipa_data.cne_municipality_0508
+cenipa_data.cne_parish_050705,PQ. SIMON RODRIGUEZ,05,cenipa_data.cne_municipality_0507
+cenipa_data.cne_parish_211106,PQ. EL DANTO,06,cenipa_data.cne_municipality_2111
+cenipa_data.cne_parish_211807,PQ. JOSE DOMINGO RUS,07,cenipa_data.cne_municipality_2118
+cenipa_data.cne_parish_212004,PQ. AGUSTIN CODAZZI,04,cenipa_data.cne_municipality_2120
+cenipa_data.cne_parish_140711,C.M. MATURIN,11,cenipa_data.cne_municipality_1407
+cenipa_data.cne_parish_060111,PQ. 5 DE JULIO,11,cenipa_data.cne_municipality_0601

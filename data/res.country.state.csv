@@ -1,0 +1,27 @@
+id,name,cne_state_code,code,country_id:id
+cenipa_data.cne_state_21,EDO. ZULIA,21,code21,base.ve
+cenipa_data.cne_state_22,EDO. AMAZONAS,22,code22,base.ve
+cenipa_data.cne_state_23,EDO. DELTA AMAC,23,code23,base.ve
+cenipa_data.cne_state_24,EDO. LA GUAIRA,24,code24,base.ve
+cenipa_data.cne_state_16,EDO. PORTUGUESA,16,code16,base.ve
+cenipa_data.cne_state_17,EDO. SUCRE,17,code17,base.ve
+cenipa_data.cne_state_18,EDO. TACHIRA,18,code18,base.ve
+cenipa_data.cne_state_19,EDO. TRUJILLO,19,code19,base.ve
+cenipa_data.cne_state_20,EDO. YARACUY,20,code20,base.ve
+cenipa_data.cne_state_01,DTTO. CAPITAL,01,code01,base.ve
+cenipa_data.cne_state_02,EDO. ANZOATEGUI,02,code02,base.ve
+cenipa_data.cne_state_03,EDO. APURE,03,code03,base.ve
+cenipa_data.cne_state_04,EDO. ARAGUA,04,code04,base.ve
+cenipa_data.cne_state_05,EDO. BARINAS,05,code05,base.ve
+cenipa_data.cne_state_06,EDO. BOLIVAR,06,code06,base.ve
+cenipa_data.cne_state_07,EDO. CARABOBO,07,code07,base.ve
+cenipa_data.cne_state_08,EDO. COJEDES,08,code08,base.ve
+cenipa_data.cne_state_09,EDO. FALCON,09,code09,base.ve
+cenipa_data.cne_state_10,EDO. GUARICO,10,code10,base.ve
+cenipa_data.cne_state_11,EDO. LARA,11,code11,base.ve
+cenipa_data.cne_state_12,EDO. MERIDA,12,code12,base.ve
+cenipa_data.cne_state_13,EDO. MIRANDA,13,code13,base.ve
+cenipa_data.cne_state_14,EDO. MONAGAS,14,code14,base.ve
+cenipa_data.cne_state_15,EDO. NVA.ESPARTA,15,code15,base.ve
+cenipa_data.cne_state_26,AREA METROPOLITANA DE CARACAS,26,code26,base.ve
+cenipa_data.cne_state_99,NACIONAL,99,code99,base.ve

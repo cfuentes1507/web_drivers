@@ -1,17 +1,19 @@
 <odoo>
-    <template id="elearning_template">
+
+<!-- QWeb Template para el elearning_template -->
+    <template id="elearning_template" name="Centro Nacional de Investigación de Pesca y Acuicultura">
         <t t-call="website.layout">
             <div id="wrap" class="oe_structure oe_empty"/>
             <div id="wrap">
                 <div class="container py-4">
                     <div class="card p-4 mb-4">
                         <div class="d-flex align-items-center mb-3">
-                          <form action="/slides/all" method="get" class="d-flex container align-items-center mb-3">
+                        <form action="/slides/all" method="get" class="d-flex container align-items-center mb-3">
                             <label for="search_courses" class="me-2">Buscar cursos</label>
                             <input type="text" id="search_courses" name="search" class="form-control me-2"/>
                             <input type="hidden" name="order" value="name asc"/>
                             <button type="submit" class="btn btn-primary">Ir</button>
-                          </form>  
+                        </form>  
                         </div>
                         <h5 class="mb-3">Cursos por categoría</h5>
                         <div>
@@ -28,7 +30,7 @@
                         <t t-foreach="courses" t-as="course">
                             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                                 <div class="card h-100">
-                                    <img t-attf-src="/web/image?model=slide.channel&amp;id={{course.id}}&amp;field=image_1920" class="card-img-top" alt="Imagen del curso"/>
+                                    <img t-attf-src="/web/image?model=slide.channel&amp;id={{course.id}}&amp;field=image_1920" class="course-image" style="height: 150px !important; object-fit: cover !important; width: 100%;"/>                                    
                                     <div class="card-body">
                                         <h5 class="card-title">
                                             <a t-attf-href="/slides/{{ slug(course) }}">
@@ -44,7 +46,7 @@
                                             </t>
                                         </div>
                                         <p class="card-text text-muted">
-                                            <t t-esc="course.description"/>
+                                            <t t-esc="course.description[:75]"/>
                                         </p>
                                         <a t-attf-href="/slides/{{ slug(course) }}" class="btn btn-primary mt-2">Más información</a>
                                     </div>
